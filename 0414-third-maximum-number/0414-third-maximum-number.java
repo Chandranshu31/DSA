@@ -8,7 +8,8 @@ class Solution {
                 largest=Math.max(largest,nums[i]);
             }
             return (int)largest;
-        }
+        } 
+        
 
         // other wise the third distinct number would definintely exists
         long largest=Long.MIN_VALUE;
@@ -45,3 +46,5 @@ class Solution {
        
     }
 }
+
+// can also be done using a PQ
