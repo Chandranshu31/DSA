@@ -22,3 +22,23 @@ class Solution {
         
     }
 }
+
+
+
+/**
+for smallesr constraints this code ight also works
+class Solution {
+    public int findPoisonedDuration(int[] timeSeries, int duration) {
+        HashSet<Integer> hs = new HashSet<>();
+        int n= timeSeries.length;
+        for(int i=0;i<n;i++){
+            int poisenedtimeEnds= timeSeries[i]+duration-1;
+            for(int j=timeSeries[i];j<=poisenedtimeEnds;j++){
+                hs.add(j);
+            }
+        }
+        return hs.size();  
+
+
+    }
+} */
