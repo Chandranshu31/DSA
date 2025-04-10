@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Chandranshu31/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3430-count-days-without-meetings](https://github.com/Chandranshu31/DSA/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Chandranshu31/DSA/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/Chandranshu31/DSA/tree/master/0414-third-maximum-number) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
+| [3430-count-days-without-meetings](https://github.com/Chandranshu31/DSA/tree/master/3430-count-days-without-meetings) |
 ## String
 |  |
 | ------- |
