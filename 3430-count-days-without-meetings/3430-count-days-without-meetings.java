@@ -18,12 +18,30 @@ class Solution {
         }
         merged.add(current);
 
-       int totalMeetingDays = 0;
+        // gett mergred intervals from the meeting days so that we can know exactly how many days he/she was in meeting
+
+       int totalMeetingDays = 0;   // now a single indx of list stores the diff non overlapping meeting duration so just on every interval
+       // count the total numb of meeting days by end date- startdate +1
        for(int [] present:merged){
         totalMeetingDays+= present[1]-present[0]+1;
        }
 
-       return days-totalMeetingDays;
+       return days-totalMeetingDays;   // return the numb of days he didnt attend any meeting
         
     }
 }
+
+/**
+    HashSet<Integer> hs = new HashSet<>();
+
+        for(int i=0;i<merged.size();i++){
+            int present[]= merged.get(i);
+            for(int k=present[0];k<=present[1];k++){
+                hs.add(k);
+            }
+        }
+
+        return days-hs.size();
+        
+        we can also do this instead of totalmeetingdays calculations 
+        but in huge cases it wuld give MEMORY LIMIT EXCEEDED */
