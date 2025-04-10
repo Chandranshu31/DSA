@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Chandranshu31/DSA/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/Chandranshu31/DSA/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandranshu31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Chandranshu31/DSA/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/Chandranshu31/DSA/tree/master/0414-third-maximum-number) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 ## String
