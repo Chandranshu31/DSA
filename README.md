@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Chandranshu31/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Stack
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Two Pointers
 |  |
 | ------- |
