@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Chandranshu31/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Chandranshu31/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Chandranshu31/DSA/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Chandranshu31/DSA/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Chandranshu31/DSA/tree/master/0728-self-dividing-numbers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Chandranshu31/DSA/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Chandranshu31/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Chandranshu31/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Chandranshu31/DSA/tree/master/2491-smallest-even-multiple) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Chandranshu31/DSA/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Two Pointers
