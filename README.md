@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0507-perfect-number](https://github.com/Chandranshu31/DSA/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Chandranshu31/DSA/tree/master/0728-self-dividing-numbers) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Chandranshu31/DSA/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Chandranshu31/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Chandranshu31/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Chandranshu31/DSA/tree/master/2491-smallest-even-multiple) |
