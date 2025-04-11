@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Chandranshu31/DSA/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandranshu31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/Chandranshu31/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Chandranshu31/DSA/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Chandranshu31/DSA/tree/master/0739-daily-temperatures) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Chandranshu31/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/Chandranshu31/DSA/tree/master/0575-distribute-candies) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Chandranshu31/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
