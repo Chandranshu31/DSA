@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Chandranshu31/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Chandranshu31/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2639-separate-the-digits-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Chandranshu31/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Chandranshu31/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
