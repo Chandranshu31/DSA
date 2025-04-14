@@ -65,3 +65,11 @@ class Solution {
 
     }
 }
+
+/**
+There are three imp implementations of kadanes
+maxSubarray sum
+minSubarraySum
+circular sum by trick......... totalsum-minsubarraysum gives us circular subarray sum and max of maxsubarraysum and circ
+circularsubarraysum is our res
+in case maxsubarray sum<0 all negative thn it is the result only */
