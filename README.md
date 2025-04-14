@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Chandranshu31/DSA/tree/master/0056-merge-intervals) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chandranshu31/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Chandranshu31/DSA/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandranshu31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Greedy
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 ## Simulation
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandranshu31/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chandranshu31/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
