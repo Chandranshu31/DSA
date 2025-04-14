@@ -12,7 +12,7 @@ class Solution {
                int length=end-start+1; // length of current subarray
                minLen=Math.min(minLen,length);
                sum-=nums[start];
-               start++;
+               start++; // we need min len so shrink the size of window and chekc for it again
             }
          
         }
