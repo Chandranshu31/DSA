@@ -1,38 +1,67 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-        int cs=0;
-        int ms=Integer.MIN_VALUE;  // maxsubarray sum
+        int maxSubArraySum=maxKadane(nums);
+        int minSubArraySum=minKadane(nums);
+        int totalSum=0;
+        for(int i=0;i<nums.length;i++){
+            totalSum+=nums[i];
+        }
+        if (maxSubArraySum < 0) {
+          // All elements are negative
+            return maxSubArraySum;
+        }
 
-        for(int num: nums){
-            cs+=num;
-            ms=Math.max(cs,ms);
-            if(cs<0){
-                cs=0;
+       
+
+        int circularSubArraySum=totalSum-minSubArraySum;
+
+        return Math.max(maxSubArraySum,circularSubArraySum);
+    }
+
+    public int maxKadane(int nums[]){
+         int n=nums.length;
+        int currSum=0;
+        int maxSum=Integer.MIN_VALUE;  // maxsubarray sum
+        int largest=Integer.MIN_VALUE;
+
+        for(int i=0;i<n;i++){
+            currSum+=nums[i];
+            if(currSum<0){
+                currSum=0;
             }
+            maxSum=Math.max(maxSum,currSum);
         }
-
-        int cs2=0;
-        int minS=Integer.MAX_VALUE;  // minsubarray sum
-        for(int num: nums){
-            cs2+=num;
-            minS=Math.min(cs2,minS);
-            if(cs2>0){
-                cs2=0;
+        if(maxSum==0){
+            // in case of all negative
+            for(int i=0;i<n;i++){
+                largest=Math.max(largest,nums[i]);
             }
+            maxSum=largest;
         }
+        return maxSum;
+    }
 
-        int tSum=0;
-        for(int num:nums){
-            tSum+=num;
+    public int minKadane(int nums[]){
+           int n=nums.length;
+        int currSum=0;
+        int minSum=Integer.MAX_VALUE;  // maxsubarray sum
+        int smallest=Integer.MAX_VALUE;
+
+        for(int i=0;i<n;i++){
+            currSum+=nums[i];
+            if(currSum>0){
+                currSum=0;
+            }
+            minSum=Math.min(minSum,currSum);
         }
-        
-        if(tSum==minS){
-            return ms;
+        if(minSum==0){
+            // in case of all positive elemnts our minSum would  be 0 but it shuld be the smallest positive num
+            for(int i=0;i<n;i++){
+                smallest=Math.min(smallest,nums[i]);
+            }
+            minSum=smallest;
         }
+        return minSum;
 
-        int maxCircular = tSum-minS;
-
-        return Math.max(maxCircular,ms);
-        
     }
 }
