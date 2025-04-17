@@ -19,13 +19,8 @@ class Solution {
                     sum+=beauty; 
                 }
             }
-
-        
-        return sum;
-
-        
+        return sum;   
     }
-
 }
 
 /**
