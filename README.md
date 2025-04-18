@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Chandranshu31/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Chandranshu31/DSA/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Chandranshu31/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3430-count-days-without-meetings](https://github.com/Chandranshu31/DSA/tree/master/3430-count-days-without-meetings) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Chandranshu31/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
