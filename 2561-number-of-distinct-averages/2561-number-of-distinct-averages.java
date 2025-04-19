@@ -1,6 +1,28 @@
 class Solution {
     public int distinctAverages(int[] nums) {
         Arrays.sort(nums);
+        int n=nums.length;
+        HashSet<Double> set = new HashSet<>();
+        int start=0;
+        int end=n-1;
+
+        while(start<end){
+            int min=nums[start];
+            int max=nums[end];
+            double avg=(double)(max+min)/2;
+            set.add(avg);
+            start++; // to get the new min
+            end--;   // to get the new max
+        }
+        return set.size();
+    }
+}
+
+/**
+AN ALTERNATE SOLUTION
+class Solution {
+    public int distinctAverages(int[] nums) {
+        Arrays.sort(nums);
         
         HashSet<Double> set = new HashSet<>();
         List<Integer> list= new ArrayList<>();
@@ -26,4 +48,4 @@ class Solution {
         
         
     }
-}
+} */
