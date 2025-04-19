@@ -6,12 +6,12 @@ class Solution {
         map.put(num,map.getOrDefault(num,0)+1);
       }
       int pairs=0; 
-      int remain=0;
+      int remain=0; //leftover after forming pairs of equal numbs
       for(Map.Entry<Integer,Integer> entry: map.entrySet()){
         int currFreq=entry.getValue();
-        if(currFreq%2==0){
+        if(currFreq%2==0){ // if even numb of occurences of a number then it will form pairs only so numb of pairs=freq/2
             pairs+=currFreq/2;
-        }else{
+        }else{  // for odd, it may form pair until it reaches a multiple of 2 and leftover will go in remain
             pairs+=currFreq/2;
             remain+=currFreq%2;
         }
@@ -20,10 +20,6 @@ class Solution {
       ans[0]=pairs;
       ans[1]=remain;
       return ans;
-
-
-
-
 
     }
 }
