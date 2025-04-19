@@ -18,19 +18,16 @@ class Solution {
 
         while(!q.isEmpty()){
             char cr=q.remove();
-            for(Map.Entry<Character,Integer> entry: map.entrySet()){
-                char curr=entry.getKey();
-                if(curr==cr){
-                    int freq=entry.getValue();
-                    for(int l=0;l<freq;l++){
-                        sb.append(curr);
-                    }
-                     map.put(curr,0);// to neglect the curr for the next time
+            if(map.containsKey(cr)){
+                int freq=map.get(cr);
+                for(int i=0;i<freq;i++){
+                   sb.append(cr);
                 }
+                map.put(cr,0);
+            }
                
             }
-        }
-        // now for leftover elements
+        // now for leftover elements who are not a part of order, they just need to be added inot the string in any manner
         for(Map.Entry<Character,Integer> e:map.entrySet()){
             char curr=e.getKey();
             int f=e.getValue();
