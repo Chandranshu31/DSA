@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Chandranshu31/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandranshu31/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Chandranshu31/DSA/tree/master/0739-daily-temperatures) |
+| [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chandranshu31/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Chandranshu31/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1306-minimum-absolute-difference](https://github.com/Chandranshu31/DSA/tree/master/1306-minimum-absolute-difference) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Chandranshu31/DSA/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Chandranshu31/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chandranshu31/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Chandranshu31/DSA/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Chandranshu31/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/Chandranshu31/DSA/tree/master/0575-distribute-candies) |
+| [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Chandranshu31/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Chandranshu31/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
