@@ -3,13 +3,14 @@ class Solution {
          int n=order.length();
          int m=s.length();
 
-         Queue<Character> q = new LinkedList<>();
+         Queue<Character> q = new LinkedList<>();  // to maintain the order, it can be solved without it also
          for(int i=0;i<n;i++){
             char ch= order.charAt(i);
             q.add(ch);
          }
         
-        HashMap<Character,Integer> map = new HashMap<>();
+        HashMap<Character,Integer> map = new HashMap<>(); // store the elemnts of s with their freq, they rnot supposed to b unique, if ord="aba"  then if
+        // in s b is 6 times still the order must be maintained
         for(int j=0;j<m;j++){
             char ch=s.charAt(j);
             map.put(ch,map.getOrDefault(ch,0)+1);
