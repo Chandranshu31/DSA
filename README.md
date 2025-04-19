@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Chandranshu31/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2639-separate-the-digits-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Chandranshu31/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandranshu31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chandranshu31/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Chandranshu31/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Chandranshu31/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3430-count-days-without-meetings](https://github.com/Chandranshu31/DSA/tree/master/3430-count-days-without-meetings) |
 ## String
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Chandranshu31/DSA/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chandranshu31/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting
 |  |
 | ------- |
