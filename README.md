@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/Chandranshu31/DSA/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Chandranshu31/DSA/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
