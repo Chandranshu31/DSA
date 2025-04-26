@@ -12,16 +12,16 @@ class Solution {
             h2.put(num,h2.getOrDefault(num,0)+1);
         }
        List<Integer> list= new ArrayList<>();
-        for(int i=0;i<n;i++){
-            int curr=nums2[i];
-            if(h1.containsKey(curr)){
-                int freq1= h1.get(curr);
-                int freq2=h2.get(curr); // as we r iterating over n2 then its definitely in h2
+        for(int key: h2.keySet()){
+            
+            if(h1.containsKey(key)){
+                int freq1= h1.get(key);
+                int freq2=h2.get(key); // as we r iterating over n2 then its definitely in h2
                 int min=Math.min(freq1,freq2);
                 for(int j=0;j<min;j++){
-                    list.add(curr);
+                    list.add(key);
                 }
-                h1.put(curr,0); // so if we again encounter the num we dont fill it again 
+                h1.put(key,0); // so if we again encounter the num we dont fill it again 
 
             }
         }
