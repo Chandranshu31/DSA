@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Chandranshu31/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Chandranshu31/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2639-separate-the-digits-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandranshu31/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandranshu31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/Chandranshu31/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Chandranshu31/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandranshu31/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chandranshu31/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Chandranshu31/DSA/tree/master/0953-reverse-only-letters) |
 | [2561-number-of-distinct-averages](https://github.com/Chandranshu31/DSA/tree/master/2561-number-of-distinct-averages) |
+| [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Chandranshu31/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
