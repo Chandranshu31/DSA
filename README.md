@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chandranshu31/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Chandranshu31/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chandranshu31/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Chandranshu31/DSA/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Chandranshu31/DSA/tree/master/0500-keyboard-row) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chandranshu31/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandranshu31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Chandranshu31/DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Chandranshu31/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chandranshu31/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Chandranshu31/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Chandranshu31/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Chandranshu31/DSA/tree/master/0561-array-partition) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Chandranshu31/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Chandranshu31/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Chandranshu31/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chandranshu31/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Chandranshu31/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Chandranshu31/DSA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Chandranshu31/DSA/tree/master/0575-distribute-candies) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Chandranshu31/DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chandranshu31/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chandranshu31/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chandranshu31/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Chandranshu31/DSA/tree/master/0953-reverse-only-letters) |
 | [2561-number-of-distinct-averages](https://github.com/Chandranshu31/DSA/tree/master/2561-number-of-distinct-averages) |
