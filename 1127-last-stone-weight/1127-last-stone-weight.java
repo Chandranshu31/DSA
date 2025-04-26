@@ -8,20 +8,20 @@ class Solution {
         }
 
         while(pq.size()>1){ 
-                int y=pq.remove();
-                int x= pq.remove();
-                if(y==x){
+                int y=pq.remove(); // get the current heaviest
+                int x= pq.remove(); // get the current 2nd heaviest
+                if(y==x){  // if weights equal do nohting
                     continue;
-                }else{
+                }else{  // otherwise do as said in ques
                     y=y-x;
                     pq.add(y); // dont add x that means it got destroyed
                 }
         }
-        if(pq.size()==0){
+        if(pq.size()==0){  // if pq got empty, no stone left
             return 0;
         }
 
-        return pq.peek();
+        return pq.peek(); // otherwise always a single elemnt left in other case
         
     }
 }
