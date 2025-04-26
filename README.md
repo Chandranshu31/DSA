@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/Chandranshu31/DSA/tree/master/2630-alternating-digit-sum) |
 | [2998-count-symmetric-integers](https://github.com/Chandranshu31/DSA/tree/master/2998-count-symmetric-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Chandranshu31/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3568-find-the-key-of-the-numbers](https://github.com/Chandranshu31/DSA/tree/master/3568-find-the-key-of-the-numbers) |
 ## Number Theory
 |  |
 | ------- |
