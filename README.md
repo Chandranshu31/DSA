@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Chandranshu31/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Chandranshu31/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Chandranshu31/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Chandranshu31/DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Binary Search
 |  |
