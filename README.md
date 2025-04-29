@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandranshu31/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Chandranshu31/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Chandranshu31/DSA/tree/master/0290-word-pattern) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandranshu31/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Chandranshu31/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Chandranshu31/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Chandranshu31/DSA/tree/master/0290-word-pattern) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandranshu31/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandranshu31/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chandranshu31/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
