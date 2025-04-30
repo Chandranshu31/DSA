@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Chandranshu31/DSA/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chandranshu31/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Chandranshu31/DSA/tree/master/2659-number-of-even-and-odd-bits) |
 ## Design
 |  |
 | ------- |
