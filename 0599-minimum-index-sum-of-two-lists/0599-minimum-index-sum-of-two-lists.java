@@ -24,8 +24,6 @@ class Solution {
                 } else if (indxSum == leastIdxSum) {
                     list.add(key);
                 }
-               
-        
             }
           }
 
@@ -34,12 +32,7 @@ class Solution {
           for(int i=0;i<size;i++){
             res[i]=list.get(i);
           }
-return res;
-
-
-
-
-
+          return res;
 
     }
 }
