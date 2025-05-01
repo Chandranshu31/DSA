@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/Chandranshu31/DSA/tree/master/2365-percentage-of-letter-in-string) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Chandranshu31/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Chandranshu31/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Chandranshu31/DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chandranshu31/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Chandranshu31/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Chandranshu31/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Chandranshu31/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Chandranshu31/DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chandranshu31/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Chandranshu31/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Chandranshu31/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Chandranshu31/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Chandranshu31/DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
