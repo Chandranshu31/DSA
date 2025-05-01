@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandranshu31/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Chandranshu31/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Chandranshu31/DSA/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Chandranshu31/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Chandranshu31/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandranshu31/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Chandranshu31/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Chandranshu31/DSA/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chandranshu31/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Chandranshu31/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/Chandranshu31/DSA/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Chandranshu31/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Chandranshu31/DSA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Chandranshu31/DSA/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Chandranshu31/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/Chandranshu31/DSA/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
