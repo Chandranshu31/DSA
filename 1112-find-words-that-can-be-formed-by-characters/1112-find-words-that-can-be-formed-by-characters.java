@@ -4,25 +4,22 @@ class Solution {
          int ans=0;
 
         for(int i=0;i<n;i++){
-            HashMap<Character,Integer> map = new HashMap<>();
+            HashMap<Character,Integer> map = new HashMap<>(); // for every string in word build the map and then further match the frequencies
             for(char ch:chars.toCharArray()){
             map.put(ch,map.getOrDefault(ch,0)+1);
            }
             String curr=words[i];
             boolean isGood=true;
             for(int j=0;j<curr.length();j++){
-                if(!map.containsKey(curr.charAt(j)) || map.get(curr.charAt(j))<=0){
-                   
+                if(!map.containsKey(curr.charAt(j)) || map.get(curr.charAt(j))<=0){   
                     isGood=false;
-                    break;
+                    break; // if the curr character DNE in map just break the loop for that string no need to check further
                     }
-                
                 else{
-                    map.put(curr.charAt(j),map.get(curr.charAt(j))-1);
-
+                    map.put(curr.charAt(j),map.get(curr.charAt(j))-1); // if word found update frequency in map by  reducing it by 1
                 }
             }
-            if(isGood){
+            if(isGood){  // if the word is good then add its length into the ans
                ans+=curr.length();
             }
         }
