@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Chandranshu31/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Chandranshu31/DSA/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Chandranshu31/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Chandranshu31/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Chandranshu31/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Chandranshu31/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Chandranshu31/DSA/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Chandranshu31/DSA/tree/master/1217-relative-sort-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Chandranshu31/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Chandranshu31/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2122-count-special-quadruplets](https://github.com/Chandranshu31/DSA/tree/master/2122-count-special-quadruplets) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Chandranshu31/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Chandranshu31/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chandranshu31/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Chandranshu31/DSA/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chandranshu31/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Chandranshu31/DSA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Chandranshu31/DSA/tree/master/2659-number-of-even-and-odd-bits) |
