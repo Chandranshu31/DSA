@@ -27,3 +27,35 @@ class Solution {
         
     }
 }
+
+/** A FASTER METHOD IS THIS ONE 
+class Solution {
+    public int countCharacters(String[] words, String chars) {
+        int[] charFreq = new int[26];
+        for (char ch : chars.toCharArray()) {
+            charFreq[ch - 'a']++;
+        }
+
+        int ans = 0;
+
+        for (String word : words) {
+            int[] freqCopy = charFreq.clone(); // fresh copy for each word
+            boolean isGood = true;
+
+            for (char ch : word.toCharArray()) {
+                if (freqCopy[ch - 'a'] == 0) {
+                    isGood = false;
+                    break;
+                }
+                freqCopy[ch - 'a']--;
+            }
+
+            if (isGood) {
+                ans += word.length();
+            }
+        }
+
+        return ans;
+    }
+}
+ */
