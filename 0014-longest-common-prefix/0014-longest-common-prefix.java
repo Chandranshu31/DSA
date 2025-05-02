@@ -16,3 +16,8 @@ class Solution {
            
     }
 }
+
+// kind of vertical scanning , take the first word as reference and get the first character then iterate over
+// the array from next word and if it keeps matching and in range then do nothing keep moving ahead via loop
+// the moment a mismatch comes return the substring.
+// if both loop ends that means all the characters got matched and all were of same length so return the first word only
