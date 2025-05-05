@@ -35,3 +35,8 @@ class Solution {
         return isNegative ? -res:res;       
     }
 }
+
+// the idea is to if numb is positive just simply sort the digits and if there are any leading zeros then
+// swap it with the first non zero numb
+
+// and if  the numb is negative then sort the digits and then just reverse them kinda decreasing order sort of the digits , it would lead to the smallest possible neg numb
