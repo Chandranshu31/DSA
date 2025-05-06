@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/Chandranshu31/DSA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2886-faulty-keyboard](https://github.com/Chandranshu31/DSA/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Chandranshu31/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Chandranshu31/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/Chandranshu31/DSA/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandranshu31/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Chandranshu31/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Chandranshu31/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Prefix Sum
