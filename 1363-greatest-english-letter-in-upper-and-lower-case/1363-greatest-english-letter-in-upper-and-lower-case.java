@@ -23,9 +23,8 @@ class Solution {
         if(greatestAscii==Integer.MIN_VALUE){
             return "";
         }
-        // now greatestAscii holds the ascii val of required greatest but in lower case so time convert it into uppercase
-        char character=(char) greatestAscii;
-        char res=Character.toUpperCase(character);
-        return String.valueOf(res);
+        // now greatestAscii holds the ascii val of required greatest and also the uppercase on only cause during iteration 
+        // we only chekced for key+32 which is for an uppercase(key) if the lowercase exists... then update the greatest ascii
+        return String.valueOf((char)greatestAscii);
     }
 }
