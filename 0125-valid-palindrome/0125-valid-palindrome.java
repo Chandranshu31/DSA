@@ -27,3 +27,8 @@ class Solution {
         return true;
     }
 }
+
+// Idea is very simple, set two pointers at start and end, if the characters at the two pointers are non-alphanumeric just move them 
+// forward and backward respectively
+// then if the chars at both pointers is alphanumeric, convert them to lowercase and compare them, if they are mismatched then simply return false
+// otherwise if matched then move both the pointers
