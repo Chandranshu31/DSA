@@ -3,11 +3,8 @@ class Solution {
         int n=nums.length;
         int res[]=new int[n];
         for(int i=0;i<n;i++){
-            int el=nums[i];
-            int insert=nums[el];
-            res[i]=insert;
+            res[i]=nums[nums[i]];
         }
-        return res;
-        
+        return res;    
     }
 }
