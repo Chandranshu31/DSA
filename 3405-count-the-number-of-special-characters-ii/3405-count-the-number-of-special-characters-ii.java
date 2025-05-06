@@ -42,3 +42,5 @@ class Solution {
      
     }
 }
+
+// for every letter if the last occurence of its lower case<first occurence of its uppercase then its a special character
