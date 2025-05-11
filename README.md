@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Chandranshu31/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Chandranshu31/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Chandranshu31/DSA/tree/master/1127-last-stone-weight) |
+| [1168-duplicate-zeros](https://github.com/Chandranshu31/DSA/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Chandranshu31/DSA/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Chandranshu31/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandranshu31/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Chandranshu31/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Chandranshu31/DSA/tree/master/0953-reverse-only-letters) |
+| [1168-duplicate-zeros](https://github.com/Chandranshu31/DSA/tree/master/1168-duplicate-zeros) |
 | [2561-number-of-distinct-averages](https://github.com/Chandranshu31/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
