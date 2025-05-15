@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<s.length();i++){
             char curr=s.charAt(i);
              map.put(curr,i);
-        } // now in map we have the second occurence occurences and their indices
+        } // now in map we have the second occurence and their indices
         
         HashMap<Character,Integer> map2 = new HashMap<>();
         for(int i=0;i<s.length();i++){
@@ -19,9 +19,9 @@ class Solution {
 
         boolean isWell = true;
         for(int i=0;i<s.length();i++){
-            char curr=s.charAt(i);// this would always give us the first occurence 
-            int a=map.get(curr);
-            int b=map2.get(curr);
+            char curr=s.charAt(i);
+            int a=map.get(curr);//second occurence indx
+            int b=map2.get(curr); // firs
             if(a-b-1 != distance[curr-'a']){
                 isWell=false;
             }
