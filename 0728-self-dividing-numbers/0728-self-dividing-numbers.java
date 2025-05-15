@@ -7,13 +7,11 @@ class Solution {
             boolean isSelfDivisor = true;
             while(temp>0){
                 int lastDigit= temp%10;
-                if(lastDigit==0){
+                if(lastDigit==0 || curr%lastDigit!=0){
                     isSelfDivisor=false;
                     break;
                 }
-                if(curr%lastDigit!=0){
-                    isSelfDivisor=false;
-                }
+               
                 temp=temp/10;
             }
             if(isSelfDivisor){
