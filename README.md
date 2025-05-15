@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Chandranshu31/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Chandranshu31/DSA/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Chandranshu31/DSA/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Chandranshu31/DSA/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chandranshu31/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandranshu31/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Chandranshu31/DSA/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Chandranshu31/DSA/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Chandranshu31/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
