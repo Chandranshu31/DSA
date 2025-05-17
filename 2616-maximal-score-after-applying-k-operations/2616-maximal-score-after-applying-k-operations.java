@@ -18,3 +18,5 @@ class Solution {
        return maxScore; 
     }
 }
+
+/** Just get the max presnt element from the array and do the needful for the k times */
