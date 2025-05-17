@@ -20,3 +20,7 @@ class Solution {
 
     }
 }
+/**
+If we want to calc min operations to halve the array sum then we need to pick up the greatest integer present and apply 
+the given operation of reducing it to the half on it only and simultaneously keep calculating the currsum or totalsum and keep checking it with the condition
+. Used a PQ to always get the max of the available */
