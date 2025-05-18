@@ -6,22 +6,18 @@ class Solution {
        int start=0;
        int end=n-1;
        while(start<=end){
-        int sum=people[start]+people[end];
-        if(sum>limit){
-            boatsUsed++;
+        int currWeight=people[start]+people[end];
+        if(currWeight>limit){
+            boatsUsed++; // the people present at the end index will occupy a single boat
             end--;
         }
-        else if(sum<=limit){
+        else if(currWeight<=limit){ // if the currWeight sum is within our limit range then send both of them in the same boat and increment the count
             boatsUsed++;
             start++;
             end--;
-        }else{
-            break;
         }
 
        }
-       return boatsUsed;
-
-
+       return boatsUsed; 
     }
 }
