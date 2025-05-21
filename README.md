@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Chandranshu31/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Chandranshu31/DSA/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Chandranshu31/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Chandranshu31/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Chandranshu31/DSA/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Chandranshu31/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Chandranshu31/DSA/tree/master/0985-bag-of-tokens) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Chandranshu31/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Chandranshu31/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Chandranshu31/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Chandranshu31/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Chandranshu31/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chandranshu31/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Queue
 |  |
 | ------- |
