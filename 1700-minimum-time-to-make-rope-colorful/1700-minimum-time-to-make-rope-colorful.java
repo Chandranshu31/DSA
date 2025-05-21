@@ -38,4 +38,6 @@ class Solution {
 } */
 /**but when there are multiple ones it fails
 
-so we set a pointer prev to track the current min */
+so we set a pointer prev to track the current min among the group of adjacent same elements
+ if we get a prev with smaller val then remove it by adding its cost and updating the prev
+ or else just get the current one as minn*/
