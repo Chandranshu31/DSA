@@ -11,4 +11,7 @@ class Solution {
         }
         return maxIc;
     }
+
+    // sort the costs so that we can buy as much  ice creams on cheaper price with our range in coins.
+    
 }
