@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2476-check-distances-between-same-letters](https://github.com/Chandranshu31/DSA/tree/master/2476-check-distances-between-same-letters) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chandranshu31/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandranshu31/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Chandranshu31/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Chandranshu31/DSA/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Chandranshu31/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Chandranshu31/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Chandranshu31/DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Chandranshu31/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Chandranshu31/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/Chandranshu31/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Chandranshu31/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Chandranshu31/DSA/tree/master/0985-bag-of-tokens) |
 | [1168-duplicate-zeros](https://github.com/Chandranshu31/DSA/tree/master/1168-duplicate-zeros) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/Chandranshu31/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
