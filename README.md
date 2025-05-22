@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Chandranshu31/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2639-separate-the-digits-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Chandranshu31/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Chandranshu31/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Chandranshu31/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Chandranshu31/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Chandranshu31/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Chandranshu31/DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Chandranshu31/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Chandranshu31/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Chandranshu31/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Chandranshu31/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Chandranshu31/DSA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandranshu31/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Chandranshu31/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
