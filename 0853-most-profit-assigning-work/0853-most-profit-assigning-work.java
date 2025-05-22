@@ -22,4 +22,6 @@ class Solution {
     }
 }
 
-// sort the matrix on basis of difficulty so that we can get the 
+// sort the matrix on basis of difficulty and workers also, so that we can match the less capacity with less difficulty
+// and avoid further traversal and till we dont reach the capacity of worker threshold in matrix difficulty
+// column keeep tracking the best profit the worker can make in htat range as one job can be done multiple times.
