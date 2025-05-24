@@ -7,7 +7,7 @@ public class Solution extends VersionControl {
         int j=n;
         while(i<j){
             int mid=i+(j-i)/2;
-            if(isBadVersion(mid)){
+            if(isBadVersion(mid)){  // if mid is bad version then we need to find a version which is msaller than mid so that we get the first bad version
                 j=mid;
             }else {
                 i=mid+1;
