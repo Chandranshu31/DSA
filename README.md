@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Chandranshu31/DSA/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Chandranshu31/DSA/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Chandranshu31/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1256-rank-transform-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1293-three-consecutive-odds](https://github.com/Chandranshu31/DSA/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Chandranshu31/DSA/tree/master/1306-minimum-absolute-difference) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Chandranshu31/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Chandranshu31/DSA/tree/master/0985-bag-of-tokens) |
 | [1217-relative-sort-array](https://github.com/Chandranshu31/DSA/tree/master/1217-relative-sort-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/Chandranshu31/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Chandranshu31/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Chandranshu31/DSA/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Chandranshu31/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1256-rank-transform-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Chandranshu31/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Chandranshu31/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
