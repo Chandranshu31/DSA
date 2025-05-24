@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Chandranshu31/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Chandranshu31/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandranshu31/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandranshu31/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chandranshu31/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandranshu31/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chandranshu31/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
