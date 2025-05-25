@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/Chandranshu31/DSA/tree/master/1752-arithmetic-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Chandranshu31/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2122-count-special-quadruplets](https://github.com/Chandranshu31/DSA/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Chandranshu31/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Chandranshu31/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Chandranshu31/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Chandranshu31/DSA/tree/master/1755-defuse-the-bomb) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chandranshu31/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Chandranshu31/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chandranshu31/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
