@@ -5,17 +5,17 @@ class Solution {
         List<Boolean> res = new ArrayList<>();
         while(i<l.length && j<r.length){
             int a=l[i];
-            int b=r[i];
+            int b=r[j];
             List<Integer> temp = new ArrayList<>();
             for(int k=a;k<=b;k++){
                 temp.add(nums[k]);
             }
             Collections.sort(temp);
+
             boolean isAir=true;
-            if(temp.size()>=2){
-                int diff=temp.get(1)-temp.get(0);
+            if(temp.size()>=3){  // only consider the to check if size of temp is min 2 because of the condition given
                 for(int z=2;z<temp.size();z++){
-                    if(temp.get(z)-temp.get(z-1)!=diff){
+                    if(temp.get(z)-temp.get(z-1)!=temp.get(z-1)-temp.get(z-2)){
                         isAir=false;
                         break;
                     }
