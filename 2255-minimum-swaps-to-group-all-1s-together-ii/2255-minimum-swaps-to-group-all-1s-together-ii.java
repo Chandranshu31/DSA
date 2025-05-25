@@ -16,10 +16,10 @@ class Solution {
         int n=nums.length;
         int minSwaps=count;
         for(int i=1 ;i<nums.length; i++){
-            if(nums[(i-1)%n]==0){
+            if(nums[(i-1)%n]==0){  // if element going out of window is 0 reduce the count
                 count--;
             }
-            if(nums[(i+k-1)%n]==0){
+            if(nums[(i+k-1)%n]==0){  // if el added to the window is 0 then increase the count
                 count++;
             }
 
@@ -28,5 +28,7 @@ class Solution {
 
         return minSwaps;
 
-    }
+    }  // simply coun the number of 1s in the array and then 
+    // for a window of that count find out the min number of swaps u need to make in that winodw to bring all the 1s together
+
 }
