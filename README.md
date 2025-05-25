@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Chandranshu31/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Chandranshu31/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Chandranshu31/DSA/tree/master/2378-sender-with-largest-word-count) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chandranshu31/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2476-check-distances-between-same-letters](https://github.com/Chandranshu31/DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Chandranshu31/DSA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Chandranshu31/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chandranshu31/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chandranshu31/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandranshu31/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chandranshu31/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Divide and Conquer
