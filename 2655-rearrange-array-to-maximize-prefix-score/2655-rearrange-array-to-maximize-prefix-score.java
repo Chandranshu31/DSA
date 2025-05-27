@@ -12,7 +12,7 @@ class Solution {
             nums[b]=temp;
             a++;
             b--;
-        }   // no array is sorted in descending order
+        }   // now array is sorted in descending order
 
         int maxLength=0;
         long prefixSum=0;
@@ -25,7 +25,7 @@ class Solution {
             }
         }
 
-        return maxLength;
+        return maxLength;  // we were supposed to return the max length or length of array till the first prefix elemnt went equal to 0
 
         
     }
