@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Chandranshu31/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Chandranshu31/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Chandranshu31/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Chandranshu31/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Chandranshu31/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Chandranshu31/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Chandranshu31/DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/Chandranshu31/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Chandranshu31/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Chandranshu31/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Chandranshu31/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 ## Simulation
 |  |
