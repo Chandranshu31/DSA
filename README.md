@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Chandranshu31/DSA/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chandranshu31/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/Chandranshu31/DSA/tree/master/3221-find-the-peaks) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandranshu31/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandranshu31/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/Chandranshu31/DSA/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Chandranshu31/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandranshu31/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandranshu31/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Chandranshu31/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Chandranshu31/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chandranshu31/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandranshu31/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chandranshu31/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandranshu31/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
