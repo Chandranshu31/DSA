@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Chandranshu31/DSA/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Chandranshu31/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2350-find-closest-number-to-zero](https://github.com/Chandranshu31/DSA/tree/master/2350-find-closest-number-to-zero) |
 | [2378-sender-with-largest-word-count](https://github.com/Chandranshu31/DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2388-replace-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
