@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chandranshu31/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chandranshu31/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
 ## Data Stream
 |  |
 | ------- |
@@ -665,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chandranshu31/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
