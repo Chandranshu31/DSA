@@ -12,11 +12,11 @@ class Solution {
                 s.push(2*pk);
                 sum+=(2*pk);
             }
-            else if(op.equals("+")){
-                int top=s.pop();
-                int newAddition= top+s.peek();
-                s.push(top);
-                s.push(newAddition);
+            else if(op.equals("+")){  // to add prev two
+                int top=s.pop();  // get the top
+                int newAddition= top+s.peek(); // the new umb as the 2nd would become current top
+                s.push(top);  // push the top first to maintain te order
+                s.push(newAddition);  // then add the new addition
                 sum+=newAddition;
             }
             else{
@@ -27,4 +27,5 @@ class Solution {
         return sum;
         
     }
+    // here we calculated the running sum dynamically... instead of calaculating it explicitly after the operations
 }
