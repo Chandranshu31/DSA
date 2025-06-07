@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chandranshu31/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Chandranshu31/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chandranshu31/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Chandranshu31/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Chandranshu31/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Chandranshu31/DSA/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chandranshu31/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chandranshu31/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Chandranshu31/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
