@@ -23,3 +23,29 @@ class Solution {
         return maxDistance;
     }
 }
+
+/**
+A burte force approach would be
+class Solution {
+    public int maxDistToClosest(int[] seats) {
+       HashSet<Integer> set = new HashSet<>();
+       for(int i=0;i<seats.length;i++){
+           if(seats[i]==1){
+            set.add(i);
+           }
+       } 
+       int maxDistance=Integer.MIN_VALUE;
+       for(int i=0;i<seats.length;i++){
+        if(seats[i]==0){
+            int currIdx=i;
+            int closestOccupiedIdx=Integer.MAX_VALUE;
+            for( int k: set){
+                int diff=Math.abs(currIdx-k);
+                closestOccupiedIdx=Math.min(closestOccupiedIdx,diff);
+            }
+           maxDistance=Math.max(maxDistance,closestOccupiedIdx);
+        }
+       }
+       return maxDistance;
+    }
+} */
