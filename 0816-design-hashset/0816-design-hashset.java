@@ -1,21 +1,21 @@
 class MyHashSet {
-    public boolean setArr[];
+    public boolean setArr[]; // using a boolean array where each index represents that number
 
     public MyHashSet() {
-        setArr= new boolean[1000001];
+        setArr= new boolean[1000001];  // given the size in description
     }
     
     public void add(int key) {
-        setArr[key]=true;
+        setArr[key]=true; // add key means mark that index as true so value exists
         
     }
     
-    public void remove(int key) {
+    public void remove(int key) {  // make it false
         setArr[key]=false;
         
     }
     
-    public boolean contains(int key) {
+    public boolean contains(int key) {  // return whatever is there
         return setArr[key];
     }
 }
