@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Chandranshu31/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Chandranshu31/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chandranshu31/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Chandranshu31/DSA/tree/master/0125-valid-palindrome) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Chandranshu31/DSA/tree/master/0061-rotate-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Chandranshu31/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
