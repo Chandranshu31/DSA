@@ -18,17 +18,17 @@ class Solution {
         if(root==null){
             return false;
         }
-       return ismirror(root.left, root.right);
-        
-    }
-    public boolean ismirror(TreeNode n1, TreeNode n2){
-        if(n1==null && n2==null){
-            return true;
-        }
-        if(n1==null || n2==null){
-            return false;
+        return isMirrior(root.left,root.right);
 
-        }
-        return n1.val==n2.val && ismirror(n1.left,n2.right) && ismirror(n1.right, n2.left);
+}
+public boolean isMirrior(TreeNode root1, TreeNode root2){
+    if(root1==null && root2==null){
+        return true;
     }
+    if(root1==null || root2==null){
+        return false;
+    }
+
+    return root1.val==root2.val && isMirrior(root1.left,root2.right) && isMirrior(root1.right,root2.left);
+}
 }
