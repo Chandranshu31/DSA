@@ -54,3 +54,5 @@ class Solution {
         return prev;
     }
 }
+// O(n) time and O(1) extra space.
+// the idea was to reverse the linked list from the mid and then set two pointers and keep adding their values and checking the max so far
