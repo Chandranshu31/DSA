@@ -61,3 +61,43 @@ class Solution {
         return prev;
     }
 }
+
+/**
+Another approach with simple understanding but witht the smae time and space complexity
+class Solution {
+    public ListNode rotateRight(ListNode head, int k) {
+        if(head==null){
+            return null;
+        }
+      int n=0;
+      ListNode temp=head;
+      while(temp!=null){
+        n++;
+        temp=temp.next;
+      }
+      k=k%n;
+      if(k==0){
+        return head;
+      }
+
+      ListNode tail=head;
+      while(tail.next!=null){
+        tail=tail.next;
+      }
+      tail.next=head;
+
+      
+      ListNode t=head;
+      for(int i=1;i<n-k;i++){  // for left just replace n-k by k
+        t=t.next;
+      }
+      ListNode newHead=t.next;
+      t.next=null;
+
+      return newHead;
+        
+    }  ,    make the list circular, normalize k, then make the next of n-k the new head and break the link and return the new head
+       // and for rotate left, simply do the same and instead of n-k make the next of kth el the new head
+} */
+// and using reversal logic we need to reverse the first k, then remaining then rev the whole
+// for left rotate follow the circular logic as its easy
