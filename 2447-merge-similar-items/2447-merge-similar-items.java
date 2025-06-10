@@ -37,3 +37,30 @@ class Solution {
         return res;
     }
 }
+
+
+/**
+class Solution {
+    public List<List<Integer>> mergeSimilarItems(int[][] items1, int[][] items2) {
+        
+        Map<Integer, Integer> hm = new TreeMap<>();
+
+        for (int[] i : items1) {
+            hm.put(i[0], hm.getOrDefault(i[0], 0) + i[1]);
+        }
+
+        for (int[] i : items2) {
+            hm.put(i[0], hm.getOrDefault(i[0], 0) + i[1]);
+        }
+
+
+        List<List<Integer>> list = new ArrayList<>();
+        for (Map.Entry<Integer, Integer> entry : hm.entrySet()) {
+            list.add(Arrays.asList(entry.getKey(), entry.getValue()));  
+        }
+
+        return list;  A GOOD SOLUTION treemap will automatically sort the keys
+
+
+    }
+} */
