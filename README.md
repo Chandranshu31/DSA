@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Chandranshu31/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2447-merge-similar-items](https://github.com/Chandranshu31/DSA/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/Chandranshu31/DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Chandranshu31/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Chandranshu31/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2447-merge-similar-items](https://github.com/Chandranshu31/DSA/tree/master/2447-merge-similar-items) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Chandranshu31/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2447-merge-similar-items](https://github.com/Chandranshu31/DSA/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/Chandranshu31/DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Chandranshu31/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2447-merge-similar-items](https://github.com/Chandranshu31/DSA/tree/master/2447-merge-similar-items) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
