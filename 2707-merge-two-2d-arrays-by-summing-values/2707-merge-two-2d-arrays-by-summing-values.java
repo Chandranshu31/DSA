@@ -20,7 +20,7 @@ class Solution {
             temp.add(aux);
         }
 
-        for(int k:map.keySet()){
+        for(int k:map.keySet()){   // if there are any elements or ids that are in n1 andnot in n2 then after above itration their values wont be -1 so just add them inot the list as well
             if(map.get(k)!=-1){
              List<Integer> aux= new ArrayList<>();
              aux.add(k);
@@ -36,7 +36,7 @@ class Solution {
             res[i][0]=temp.get(i).get(0);
             res[i][1]=temp.get(i).get(1);
         }
-        Arrays.sort(res, (a, b) -> Integer.compare(a[0], b[0])); // sort on the basis of id.
+        Arrays.sort(res, (a, b)->Integer.compare(a[0], b[0])); // sort on the basis of id.
 
         return res; 
         
