@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Chandranshu31/DSA/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Chandranshu31/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Chandranshu31/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2388-replace-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2388-replace-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/Chandranshu31/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Chandranshu31/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chandranshu31/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Chandranshu31/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Chandranshu31/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
