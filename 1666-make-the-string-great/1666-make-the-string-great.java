@@ -11,9 +11,7 @@ class Solution {
                 sb.delete(i, i + 2); 
                 if (i > 0) {
                     i--; // check previous again
-                } else {
-                    i=0; // reset to start
-                }
+                } 
             }else{
                 i++;
             } 
