@@ -62,3 +62,43 @@ class Solution {
 
     }
 }
+
+/**
+Can also be computed on go
+class Solution {
+    public int[] nodesBetweenCriticalPoints(ListNode head) {
+        int index = 1;
+        int first = -1, last = -1;
+        int prevCritical = -1;
+        int minDistance = Integer.MAX_VALUE;
+
+        ListNode prev = head;
+        ListNode curr = head.next;
+
+        while (curr != null && curr.next != null) {
+            if ((prev.val < curr.val && curr.val > curr.next.val) ||
+                (prev.val > curr.val && curr.val < curr.next.val)) {
+
+                if (first == -1) {
+                    first = index;
+                } else {
+                    minDistance = Math.min(minDistance, index - prevCritical);
+                }
+
+                prevCritical = index;
+                last = index;
+            }
+
+            index++;
+            prev = curr;
+            curr = curr.next;
+        }
+
+        if (first == last || first == -1) {
+            return new int[]{-1, -1};
+        }
+
+        return new int[]{minDistance, last - first};
+    }
+}
+ */
