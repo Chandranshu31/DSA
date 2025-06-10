@@ -27,17 +27,17 @@ class Solution {
         s.push(aux.val);
         aux=aux.next;
         
-        int i=n-2;
-        while(aux!=null){
+        int i=n-2;// pointer to track the res arr
+        while(aux!=null){  // no need to mention i>=0 in this as aux will handle it
             int currVal=aux.val;
-            while(!s.isEmpty() && s.peek()<=currVal){
+            while(!s.isEmpty() && s.peek()<=currVal){  // keep removinfg the elements from stack until the  peek of stack is less than cur el por the stack gets empty
                 s.pop();
             }
-            if(s.isEmpty()){
+            if(s.isEmpty()){ // is stack gets empty then there is no value greater than it
                 res[i--]=0;
-                s.push(currVal);
+                s.push(currVal);  // push the curr into stack
             }
-            else{
+            else{  // elsewe found the greater element, so fill the res with it and push the curr element inot the stack
                 res[i--]=s.peek();
                 s.push(currVal);
             }
