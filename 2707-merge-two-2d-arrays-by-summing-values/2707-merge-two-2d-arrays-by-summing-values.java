@@ -36,7 +36,7 @@ class Solution {
             res[i][0]=temp.get(i).get(0);
             res[i][1]=temp.get(i).get(1);
         }
-        Arrays.sort(res, (a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(res, (a, b) -> Integer.compare(a[0], b[0])); // sort on the basis of id.
 
         return res; 
         
