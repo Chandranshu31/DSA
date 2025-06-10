@@ -9,8 +9,8 @@
  * }
  */
 class Solution {
-     List<Integer> list;
-    Random rand;
+    List<Integer> list;
+    Random rand; // to get random val
 
     public Solution(ListNode head) {
         list = new ArrayList<>();
@@ -23,8 +23,8 @@ class Solution {
     }
     
     public int getRandom() {
-          int randomIndex = rand.nextInt(list.size());
-        return list.get(randomIndex);
+        int randomIndex = rand.nextInt(list.size());  // get any ranodm index from the list 
+        return list.get(randomIndex);  // return the val
     }
 }
 
