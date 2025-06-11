@@ -14,7 +14,7 @@ class Solution {
         while(!st.isEmpty()){
             sb.append(st.pop());
         }
-        sb.reverse();
+        sb.reverse(); // to get the original order.
 
         return sb.toString();
         
