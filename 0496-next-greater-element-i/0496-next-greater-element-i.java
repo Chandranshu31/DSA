@@ -34,3 +34,6 @@ class Solution {
        return res;
     }
 }
+
+// stored the value idx in map to easily get the acess of idx
+// find the nxtG of nums2, then for the idx in nums1 get the value at nxtG idx
