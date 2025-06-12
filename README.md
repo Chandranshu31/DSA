@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Chandranshu31/DSA/tree/master/2580-circular-sentence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Chandranshu31/DSA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chandranshu31/DSA/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandranshu31/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Chandranshu31/DSA/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Chandranshu31/DSA/tree/master/3194-find-words-containing-character) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Chandranshu31/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Chandranshu31/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Chandranshu31/DSA/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandranshu31/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Chandranshu31/DSA/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/Chandranshu31/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Chandranshu31/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandranshu31/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Chandranshu31/DSA/tree/master/2886-faulty-keyboard) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Chandranshu31/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Chandranshu31/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
