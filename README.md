@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Chandranshu31/DSA/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Chandranshu31/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Chandranshu31/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chandranshu31/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Chandranshu31/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chandranshu31/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chandranshu31/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chandranshu31/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Chandranshu31/DSA/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Chandranshu31/DSA/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Chandranshu31/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Chandranshu31/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Chandranshu31/DSA/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chandranshu31/DSA/tree/master/1072-next-greater-node-in-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chandranshu31/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
 | ------- |
