@@ -16,7 +16,7 @@ class Solution {
         }
      }
 
-     return sb.length();
+     return sb.length();  // the remaining string would be this aftr removing all AB and CD so this is the min length only
     }
      
 }
