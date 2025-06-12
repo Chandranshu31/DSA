@@ -2,7 +2,7 @@ class Solution {
     public int[] finalPrices(int[] prices) {
         int n=prices.length;
         // we need to figure out the first next smaller right(given the min index) for each element
-        int nxtSR[]= new int[prices.length];
+        int nxtSR[]= new int[prices.length];  // nextSmallerRight
         nxtSR[n-1]=0;
         Stack<Integer> s = new Stack<>();
         s.push(prices[n-1]);
