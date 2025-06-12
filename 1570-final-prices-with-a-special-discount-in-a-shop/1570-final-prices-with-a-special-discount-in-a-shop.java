@@ -18,11 +18,13 @@ class Solution {
             s.push(prices[i]);
         }
 
-        int res[]=new int[n];
+        //int res[]=new int[n];
         for(int i=0;i<n;i++){
-            res[i]=prices[i]-nxtSR[i];
+            prices[i]=prices[i]-nxtSR[i];  // update the price array only no need to create anothr one
         }
 
-        return res;
+        return prices;
     }
 }
+
+// find the next smaller or equal amont foreach item, if DNE then 0 and then find the discounted price array
