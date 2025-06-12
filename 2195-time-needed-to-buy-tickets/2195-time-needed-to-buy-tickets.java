@@ -17,14 +17,17 @@ class Solution {
         pair curr= q.remove();
         curr.val-=1;
         time++;
-        if(curr.val==0){
-            if(curr.idx==k){
-                return time;
-            }
-        }else{  // only add those curr into the queue whose val is greater than 0, as the one with 0 leaves the queue
+        if(curr.val==0 && curr.idx!=k){
+            continue;
+        }
+        else if(curr.val==0 && curr.idx==k){
+            return time;
+        }
+        else{  // only add those curr into the queue whose val is greater than 0, as the one with 0 leaves the queue
             q.add(curr);
         }
     }
+    
 
     return time;
     }
