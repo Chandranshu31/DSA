@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Chandranshu31/DSA/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Chandranshu31/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/1256-rank-transform-of-an-array) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Chandranshu31/DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Chandranshu31/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Chandranshu31/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/Chandranshu31/DSA/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chandranshu31/DSA/tree/master/1072-next-greater-node-in-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Chandranshu31/DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Chandranshu31/DSA/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chandranshu31/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Chandranshu31/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
