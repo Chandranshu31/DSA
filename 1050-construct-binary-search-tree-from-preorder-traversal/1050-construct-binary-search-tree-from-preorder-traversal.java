@@ -24,7 +24,7 @@ class Solution {
             return null;
         }
         int val=preorder[index];
-        if(val<lower || val> upper){
+        if(val<lower || val> upper){ // the node is not be the child of the current node.
             return null;
         }
 
