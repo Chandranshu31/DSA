@@ -5,11 +5,11 @@ class Solution {
             map.put(num,map.getOrDefault(num,0)+1);
         }
         int sum=0;
-        for(Map.Entry<Integer,Integer> entry: map.entrySet()){
-            if(entry.getValue()==1){
-                sum+=entry.getKey();
-            }
+      for(int key: map.keySet()){
+        if(map.get(key)==1){
+            sum+=key;
         }
+      }
 
         return sum;
     }
