@@ -15,7 +15,7 @@ class Solution {
                 temp.add(i);
                 temp.add(j-1);
                 res.add(temp);
-                i=j;
+                i=j; // to skip the further additon of the current group move directly to the next group
             }else{
             i++;
             }
