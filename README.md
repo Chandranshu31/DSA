@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chandranshu31/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Chandranshu31/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Chandranshu31/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Chandranshu31/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Chandranshu31/DSA/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Chandranshu31/DSA/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Chandranshu31/DSA/tree/master/2122-count-special-quadruplets) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Chandranshu31/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Chandranshu31/DSA/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Chandranshu31/DSA/tree/master/3221-find-the-peaks) |
 ## Sorting
