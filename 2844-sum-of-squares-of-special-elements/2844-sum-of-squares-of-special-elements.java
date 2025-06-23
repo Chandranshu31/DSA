@@ -3,10 +3,10 @@ class Solution {
        // int i=0;
         int sum=0;
         int n=nums.length;
-        for(int i=1;i<=n;i++){
-            int a=i;
+        for(int i=0;i<n;i++){
+            int a=i+1;
             if(n%a==0){
-                sum+=nums[i-1]*nums[i-1];
+                sum+=nums[i]*nums[i];
             }
         }
 
