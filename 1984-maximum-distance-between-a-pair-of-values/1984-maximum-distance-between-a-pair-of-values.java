@@ -32,3 +32,8 @@ class Solution {
 
     }
 }
+// we need to find the first occutrence where the elemnt ifs greater than and equal tot he curr eleemnt of nums1 to be considered as a valid pair
+/**
+so the  brute force would have been for a single index of nums1 we will consider every j<=i in nums2 and start checkinng the other condition
+but we need to find the max distance so we just need to find the greatest j for a single i where nums1[i]<=nums2[j], so we can simply apply binary search
+over the nums2 and figure it out and if there is no such number then  no need to consider the calculation for it */
