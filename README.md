@@ -813,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chandranshu31/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Chandranshu31/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -820,11 +821,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chandranshu31/DSA/tree/master/0112-path-sum) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Chandranshu31/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Chandranshu31/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Chandranshu31/DSA/tree/master/0112-path-sum) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Chandranshu31/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Hash Function
 |  |
 | ------- |
@@ -841,4 +844,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Chandranshu31/DSA/tree/master/2107-find-unique-binary-string) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Chandranshu31/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
