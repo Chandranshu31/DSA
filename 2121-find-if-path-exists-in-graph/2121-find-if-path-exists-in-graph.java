@@ -1,40 +1,44 @@
-class Solution {
-    public boolean validPath(int n, int[][] edges, int source, int destination) {
-        // convert the 2d matrix rep of edges into adjacency list
-        ArrayList<ArrayList<Integer>> graph= new ArrayList<>();
+import java.util.*;
 
-        for(int i=0;i<n;i++){ // for n numb of vertices
-            graph.add(new ArrayList<>());
+public class Solution {
+    static int[] par;
+    static int[] rank;
+
+    public static void init(int n){
+        par = new int[n];
+        rank = new int[n];
+        for(int i = 0; i < n; i++) {
+            par[i] = i;
+            rank[i] = 0;
         }
-        for(int edge[]: edges){
-            int u=edge[0];
-            int v= edge[1];
-            graph.get(u).add(v);
-            graph.get(v).add(u);
-        }
-
-
-      boolean vis[]= new boolean[graph.size()];
-        return hasPath(graph,source,destination,vis);
-     
-        
     }
 
-    public boolean hasPath(ArrayList<ArrayList<Integer>> graph, int source, int destination, boolean vis[]){
-        if(source==destination){
-            return true;
-        }
+    public static int find(int x){
+        if(x == par[x]) return x;
+        return par[x] = find(par[x]);  // Path Compression
+    }
 
-        vis[source]=true;// mark it visited
-           // iterate over its neighbour if unvisisted and check wether there is path from neighbour to dest
-        for(int i=0;i<graph.get(source).size();i++){
-            int neighbour = graph.get(source).get(i);
+    public static void union(int a, int b){
+        int parA = find(a);  // FIX: use find here
+        int parB = find(b);
 
-            if(!vis[neighbour] && hasPath(graph,neighbour,destination,vis)){
-                return true;
-            }
-        
+        if(parA == parB) return;
+
+        if(rank[parA] < rank[parB]){
+            par[parA] = parB;
+        } else if(rank[parA] > rank[parB]){
+            par[parB] = parA;
+        } else {
+            par[parB] = parA;
+            rank[parA]++;
         }
-        return false;
+    }
+
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
+        init(n);
+        for(int[] edge : edges){
+            union(edge[0], edge[1]);
+        }
+        return find(source) == find(destination);
     }
 }
