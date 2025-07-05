@@ -6,7 +6,7 @@ class Solution {
             freq[curr]++;
         }
        // int lucky=-1;
-        for(int i=500;i>=1;i--){
+        for(int i=500;i>=1;i--){ // to return largest, iterate form back
             if(freq[i]==i){
                 return i;
             }
