@@ -5,12 +5,12 @@ class Solution {
             int curr=arr[i];
             freq[curr]++;
         }
-        int lucky=-1;
-        for(int i=1;i<freq.length;i++){
+       // int lucky=-1;
+        for(int i=500;i>=1;i--){
             if(freq[i]==i){
-                lucky=i;
+                return i;
             }
         } 
-        return lucky;       
+        return -1;       
     }
 }
