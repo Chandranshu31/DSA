@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Chandranshu31/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Chandranshu31/DSA/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Chandranshu31/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/Chandranshu31/DSA/tree/master/0835-linked-list-components) |
 | [0841-shortest-distance-to-a-character](https://github.com/Chandranshu31/DSA/tree/master/0841-shortest-distance-to-a-character) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Chandranshu31/DSA/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/Chandranshu31/DSA/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Chandranshu31/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Chandranshu31/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chandranshu31/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Chandranshu31/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Chandranshu31/DSA/tree/master/1236-n-th-tribonacci-number) |
