@@ -9,16 +9,16 @@ class Solution {
          i++;
         }
 
-        if(i==0 || i==n-1){
+        if(i==0 || i==n-1){ // if reaches end then only incresing that is also false only
             return false; // peak cannot be the end or begining 
         }
 
-        while(i+1<n  && arr[i]>arr[i+1]){
+        while(i+1<n  && arr[i]>arr[i+1]){  // now above loop stopped when a smaller found then from now on the downhill must be there so update the i only if downhill
             i++;
         }
 
-        return i==n-1;
-
+        return i==n-1;  // if we reached the end then true otherwise false
+  
         
     }
 }
