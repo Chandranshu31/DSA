@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/Chandranshu31/DSA/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Chandranshu31/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Chandranshu31/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Chandranshu31/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chandranshu31/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Chandranshu31/DSA/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2245-destroying-asteroids](https://github.com/Chandranshu31/DSA/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Chandranshu31/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Chandranshu31/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Chandranshu31/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Chandranshu31/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Chandranshu31/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Chandranshu31/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chandranshu31/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Chandranshu31/DSA/tree/master/2331-intersection-of-multiple-arrays) |
