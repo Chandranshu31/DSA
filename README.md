@@ -807,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Chandranshu31/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chandranshu31/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Chandranshu31/DSA/tree/master/0112-path-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/Chandranshu31/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chandranshu31/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Chandranshu31/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chandranshu31/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Chandranshu31/DSA/tree/master/0112-path-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/Chandranshu31/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chandranshu31/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Chandranshu31/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Chandranshu31/DSA/tree/master/0112-path-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/Chandranshu31/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Chandranshu31/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chandranshu31/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Chandranshu31/DSA/tree/master/0112-path-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/Chandranshu31/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Chandranshu31/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Hash Function
