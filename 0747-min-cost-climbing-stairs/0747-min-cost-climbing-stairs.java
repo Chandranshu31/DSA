@@ -5,7 +5,7 @@ class Solution {
         // i-1 or i-2, and we need to find the min cost to reach i so that would minimum of cost to reach i-1 and i-2.
 
         int dp[]=new int[n]; // kind of cost to reach ith index array
-        // we can either start from index 0 or 1 so to reach them cost would be ewual to their value only
+        // we can either start from index 0 or 1 so to reach them cost would be equal to their value only  
         
         dp[0]=cost[0];
         dp[1]=cost[1];
