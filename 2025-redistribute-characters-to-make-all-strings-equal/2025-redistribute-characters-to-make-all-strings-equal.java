@@ -1,19 +1,18 @@
 class Solution {
     public boolean makeEqual(String[] words) {
         HashMap<Character,Integer> map = new HashMap<>();
-        for(int i=0;i<words.length;i++){
-            String curr=words[i];
-            for(int j=0;j<curr.length();j++){
-                map.put(curr.charAt(j),map.getOrDefault(curr.charAt(j),0)+1);
+         for(String word: words){
+            for(char ch: word.toCharArray()){
+                map.put(ch,map.getOrDefault(ch,0)+1);
             }
-        }
-        int strings=words.length;
+         }
+        int n=words.length;
 
-        for(char k: map.keySet()){
-            if(map.get(k)%strings !=0){
-                return false;
-            }
+       for(int val: map.values()){
+        if(val% n!=0){
+            return false;
         }
+       }
         return true;
         
     }
