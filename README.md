@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/Chandranshu31/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/Chandranshu31/DSA/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Chandranshu31/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandranshu31/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Chandranshu31/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandranshu31/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Chandranshu31/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Chandranshu31/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Chandranshu31/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Chandranshu31/DSA/tree/master/3412-permutation-difference-between-two-strings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandranshu31/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Chandranshu31/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandranshu31/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Chandranshu31/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Chandranshu31/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Chandranshu31/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandranshu31/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
