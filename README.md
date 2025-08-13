@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandranshu31/DSA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Chandranshu31/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Chandranshu31/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Chandranshu31/DSA/tree/master/0061-rotate-list) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Chandranshu31/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Chandranshu31/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Chandranshu31/DSA/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Chandranshu31/DSA/tree/master/0382-linked-list-random-node) |
