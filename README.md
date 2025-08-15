@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Chandranshu31/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Chandranshu31/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Chandranshu31/DSA/tree/master/2238-a-number-after-a-double-reversal) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Chandranshu31/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Chandranshu31/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Chandranshu31/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Chandranshu31/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Chandranshu31/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chandranshu31/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Chandranshu31/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Chandranshu31/DSA/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Chandranshu31/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
