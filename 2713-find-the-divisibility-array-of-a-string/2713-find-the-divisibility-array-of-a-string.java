@@ -5,7 +5,7 @@ class Solution {
 
         for(int i=0;i<word.length();i++){
             curr =(curr*10 + (word.charAt(i) - '0')) % m;
-            if(curr%m==0){
+            if(curr==0){
                 div[i]=1;
             }
         }
