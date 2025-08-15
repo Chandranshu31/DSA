@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Chandranshu31/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chandranshu31/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Chandranshu31/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Chandranshu31/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Chandranshu31/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Chandranshu31/DSA/tree/master/2630-alternating-digit-sum) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Chandranshu31/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2998-count-symmetric-integers](https://github.com/Chandranshu31/DSA/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Chandranshu31/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Chandranshu31/DSA/tree/master/3321-type-of-triangle) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Chandranshu31/DSA/tree/master/2580-circular-sentence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Chandranshu31/DSA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chandranshu31/DSA/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Chandranshu31/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandranshu31/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Chandranshu31/DSA/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/2887-sort-vowels-in-a-string) |
