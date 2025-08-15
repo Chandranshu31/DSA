@@ -7,8 +7,6 @@ class Solution {
             curr =(curr*10 + (word.charAt(i) - '0')) % M;
             if(curr%m==0){
                 div[i]=1;
-            }else{
-                div[i]=0;
             }
         }
         return div;
