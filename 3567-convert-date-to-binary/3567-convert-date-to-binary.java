@@ -1,22 +1,27 @@
 class Solution {
     public String convertDateToBinary(String date) {
-        StringBuilder result = new StringBuilder();
-        StringBuilder buffer = new StringBuilder();
-        
-        for (char c : date.toCharArray()) {
-            if (c != '-') {
-                buffer.append(c);
-            } else {
-                int value = Integer.parseInt(buffer.toString());
-                result.append(Integer.toBinaryString(value)).append('-');
-                buffer.setLength(0); // clear buffer
+        StringBuilder sb = new StringBuilder();
+        StringBuilder aux= new StringBuilder();
+
+        for(char ch: date.toCharArray()){
+            if(ch!='-'){
+                aux.append(ch);
+            }else{
+                int val= Integer.parseInt(aux.toString());
+                sb.append(Integer.toBinaryString(val));
+                sb.append('-');
+                aux.setLength(0);
             }
         }
+         int val= Integer.parseInt(aux.toString());   // for the date last one. cuz we never reach - at teh end and loops ends with auz having the date data
+                sb.append(Integer.toBinaryString(val));
         
-        // Handle the last segment (day) after loop
-        int value = Integer.parseInt(buffer.toString());
-        result.append(Integer.toBinaryString(value));
+
+        return sb.toString();
         
-        return result.toString();
     }
 }
+
+// in temp builder keep adding number until we reach -
+// the moment we reach -.. get the string in buff to int value
+// append it to sb by converting integer value into binary string
