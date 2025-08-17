@@ -57,3 +57,5 @@ class Solution {
         return prev;
     }
 }
+
+// imagine the numbs r reversed, so bring them in original form and start adding from MSB and rev for desired result, as we dont ave any prev pointer
