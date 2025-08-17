@@ -18,7 +18,7 @@ class Solution {
             // carry would be 1.
             carry=sum/2;  // 0/2=0, 1/2=0, 2/2=1 only in 1+1 case carry would become 1
         }
-        sb.reverse();
+        sb.reverse(); // in builder we r storng from front but adding from back, so just reverse the result.
         return sb.toString();
         
     }
