@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Chandranshu31/DSA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/Chandranshu31/DSA/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/Chandranshu31/DSA/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Chandranshu31/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Chandranshu31/DSA/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Chandranshu31/DSA/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Chandranshu31/DSA/tree/master/0728-self-dividing-numbers) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chandranshu31/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chandranshu31/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Chandranshu31/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Chandranshu31/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Chandranshu31/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chandranshu31/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Chandranshu31/DSA/tree/master/0682-baseball-game) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Chandranshu31/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chandranshu31/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Chandranshu31/DSA/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Chandranshu31/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/Chandranshu31/DSA/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Chandranshu31/DSA/tree/master/1072-next-greater-node-in-linked-list) |
