@@ -23,7 +23,7 @@ class Solution {
                     double discounted = price - (price * discount / 100.0);
                     
                     
-                    sb.append(String.format("%.2f", discounted));
+                    sb.append(String.format("%.2f", discounted));  // to format upto 2 decimal places
                 } else {
                     // not a valid number, keep as is
                     sb.append(aux);
