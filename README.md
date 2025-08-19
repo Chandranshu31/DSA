@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Chandranshu31/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1252-break-a-palindrome](https://github.com/Chandranshu31/DSA/tree/master/1252-break-a-palindrome) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chandranshu31/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Chandranshu31/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Chandranshu31/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Chandranshu31/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Chandranshu31/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chandranshu31/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Chandranshu31/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Chandranshu31/DSA/tree/master/1552-build-an-array-with-stack-operations) |
