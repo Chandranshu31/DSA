@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Chandranshu31/DSA/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Chandranshu31/DSA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/Chandranshu31/DSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Chandranshu31/DSA/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/Chandranshu31/DSA/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Chandranshu31/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Chandranshu31/DSA/tree/master/0507-perfect-number) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandranshu31/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Chandranshu31/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Chandranshu31/DSA/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/Chandranshu31/DSA/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Chandranshu31/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -975,10 +977,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Chandranshu31/DSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Chandranshu31/DSA/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Chandranshu31/DSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Chandranshu31/DSA/tree/master/0398-random-pick-index) |
 ## Backtracking
 |  |
 | ------- |
