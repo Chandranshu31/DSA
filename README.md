@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Chandranshu31/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Chandranshu31/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Chandranshu31/DSA/tree/master/2594-count-pairs-of-similar-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Chandranshu31/DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chandranshu31/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chandranshu31/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Chandranshu31/DSA/tree/master/2594-count-pairs-of-similar-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Chandranshu31/DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandranshu31/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Chandranshu31/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Chandranshu31/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Chandranshu31/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Chandranshu31/DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Chandranshu31/DSA/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Chandranshu31/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Chandranshu31/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Chandranshu31/DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -930,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chandranshu31/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Chandranshu31/DSA/tree/master/0937-online-stock-span) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Chandranshu31/DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Interactive
 |  |
 | ------- |
