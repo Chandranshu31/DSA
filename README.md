@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Chandranshu31/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/Chandranshu31/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0879-maximize-distance-to-closest-person](https://github.com/Chandranshu31/DSA/tree/master/0879-maximize-distance-to-closest-person) |
+| [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/Chandranshu31/DSA/tree/master/0917-boats-to-save-people) |
 | [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chandranshu31/DSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Chandranshu31/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chandranshu31/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0853-most-profit-assigning-work](https://github.com/Chandranshu31/DSA/tree/master/0853-most-profit-assigning-work) |
+| [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chandranshu31/DSA/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/Chandranshu31/DSA/tree/master/2634-minimum-common-value) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Chandranshu31/DSA/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Chandranshu31/DSA/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Chandranshu31/DSA/tree/master/0728-self-dividing-numbers) |
+| [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Chandranshu31/DSA/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Chandranshu31/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Chandranshu31/DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Chandranshu31/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Chandranshu31/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Chandranshu31/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
@@ -983,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Chandranshu31/DSA/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Chandranshu31/DSA/tree/master/0398-random-pick-index) |
+| [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 ## Backtracking
 |  |
 | ------- |
