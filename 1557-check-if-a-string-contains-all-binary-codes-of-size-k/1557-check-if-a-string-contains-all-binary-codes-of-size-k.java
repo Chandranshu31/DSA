@@ -7,6 +7,7 @@ class Solution {
         for(int i=0;i<=s.length()-k;i++){
             String su = s.substring(i,i+k);
              set.add(su);
+             if(set.size()==total) return true; // immedieately return if all found
         }
 
         return set.size()==total; 
