@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Chandranshu31/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1611-making-file-names-unique](https://github.com/Chandranshu31/DSA/tree/master/1611-making-file-names-unique) |
+| [1660-thousand-separator](https://github.com/Chandranshu31/DSA/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/Chandranshu31/DSA/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Chandranshu31/DSA/tree/master/1720-crawler-log-folder) |
