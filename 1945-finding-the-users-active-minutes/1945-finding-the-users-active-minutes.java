@@ -12,11 +12,10 @@ class Solution {
 
         // now we need to iterate over map and count the elements prsent in the set and find UAM and increment UAM-1 for the sake of 1 based indexing
         int res[]= new int[k];
-        for(Map.Entry<Integer,HashSet<Integer>> entry: map.entrySet()){
-            int key=entry.getKey(); // the unique time 
-            int UAM= entry.getValue().size(); 
-            res[UAM-1]++;
-        }
+      for(int key: map.keySet()){
+        int UAM=map.get(key).size(); // the size of set corresponding to a id represents the unique number of minutes at which an ID was active, that is UAM
+        res[UAM-1]++; // for 1 based indexing purpose
+      }
         return res;
     }
 }
