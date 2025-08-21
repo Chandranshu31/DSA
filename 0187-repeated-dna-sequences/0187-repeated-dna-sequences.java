@@ -1,6 +1,7 @@
 class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
-        if(s.length()<=9) return new ArrayList<String>();
+        if(s.length()<=9) return new ArrayList<String>(); // because we need the subsequence of length oonly of 10
+
         HashMap<String,Integer> map = new HashMap<>();
         for(int i=0;i<=s.length()-10;i++){
             String currPattern=s.substring(i,i+10);
