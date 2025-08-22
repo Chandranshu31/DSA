@@ -4,10 +4,10 @@ class Solution {
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
                if(grid[i][j]==1){
-                 if (top == -1) {  // first 1 found
+                 if (top == -1) {  // first 1 found, then initialise all the pointers 
                         top = bottom = i;
                         left = right = j;
-                    } else {
+                    } else {   // if we dont do the above then when first 1 found then top=math.minn(-1,i) which is wrong
                         top = Math.min(top, i);
                         bottom = Math.max(bottom, i);
                         left = Math.min(left, j);
