@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/Chandranshu31/DSA/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Chandranshu31/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Chandranshu31/DSA/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Chandranshu31/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Chandranshu31/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Chandranshu31/DSA/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Chandranshu31/DSA/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Chandranshu31/DSA/tree/master/2122-count-special-quadruplets) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Chandranshu31/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Chandranshu31/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Chandranshu31/DSA/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Chandranshu31/DSA/tree/master/3221-find-the-peaks) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Chandranshu31/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Chandranshu31/DSA/tree/master/2226-rings-and-rods) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chandranshu31/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Chandranshu31/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Chandranshu31/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Chandranshu31/DSA/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Chandranshu31/DSA/tree/master/2365-percentage-of-letter-in-string) |
