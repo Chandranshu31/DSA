@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chandranshu31/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chandranshu31/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Chandranshu31/DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Chandranshu31/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandranshu31/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/Chandranshu31/DSA/tree/master/1945-finding-the-users-active-minutes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chandranshu31/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
