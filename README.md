@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Chandranshu31/DSA/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Chandranshu31/DSA/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Chandranshu31/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Chandranshu31/DSA/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Chandranshu31/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Chandranshu31/DSA/tree/master/0506-relative-ranks) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Chandranshu31/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Chandranshu31/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Chandranshu31/DSA/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Chandranshu31/DSA/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Chandranshu31/DSA/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Chandranshu31/DSA/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Chandranshu31/DSA/tree/master/1552-build-an-array-with-stack-operations) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chandranshu31/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Chandranshu31/DSA/tree/master/0498-diagonal-traverse) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Chandranshu31/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Chandranshu31/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chandranshu31/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
