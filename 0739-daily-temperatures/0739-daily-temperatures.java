@@ -13,6 +13,7 @@ class Solution {
             if(!s.isEmpty()){
                 res[i]=s.peek()-i;
             }
+            
 
             s.push(i);
         }
