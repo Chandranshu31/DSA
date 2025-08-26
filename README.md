@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Chandranshu31/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Chandranshu31/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Chandranshu31/DSA/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/Chandranshu31/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Chandranshu31/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Chandranshu31/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Chandranshu31/DSA/tree/master/0263-ugly-number) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Chandranshu31/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Chandranshu31/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Chandranshu31/DSA/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Chandranshu31/DSA/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Chandranshu31/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chandranshu31/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Chandranshu31/DSA/tree/master/0383-ransom-note) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chandranshu31/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chandranshu31/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/Chandranshu31/DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Chandranshu31/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Chandranshu31/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Chandranshu31/DSA/tree/master/0496-next-greater-element-i) |
