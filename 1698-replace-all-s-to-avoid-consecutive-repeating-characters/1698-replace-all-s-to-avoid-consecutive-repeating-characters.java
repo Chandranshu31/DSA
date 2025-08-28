@@ -16,4 +16,6 @@ class Solution {
         return new String(arr);
         
     }
+
+    // for a single ? we just need to assure that its not equal to its neighbour and to make a valid ans we just need a,b,c options just three any three 
 }
