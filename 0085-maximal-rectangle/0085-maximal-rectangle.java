@@ -11,12 +11,12 @@ class Solution {
                         heights[j]=0;
                     }
                 }
-                maxArea=Math.max(maxArea,findMaxRectangle(heights));
+                maxArea=Math.max(maxArea,findMaxRectangleArea(heights));
         }
         return maxArea;
         
     }
-    public int findMaxRectangle(int heights[]){
+    public int findMaxRectangleArea(int heights[]){
         int n=heights.length;
         int NSR[]=new int[n];
         Stack<Integer> s = new Stack<>();
@@ -57,6 +57,9 @@ class Solution {
             maxArea=Math.max(maxArea,area);
         }
 
-        return maxArea;
+        return maxArea; 
     }
 }
+
+// imagine each row as a histogram with height.. the moment u see 1 increase height by 1 and for zero set it to zero
+// and after each row find the maxarea of rectangle and keep updating..
