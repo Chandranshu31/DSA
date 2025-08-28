@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Chandranshu31/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandranshu31/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chandranshu31/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Chandranshu31/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Chandranshu31/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chandranshu31/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Chandranshu31/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Chandranshu31/DSA/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chandranshu31/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chandranshu31/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Chandranshu31/DSA/tree/master/0227-basic-calculator-ii) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chandranshu31/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Chandranshu31/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/Chandranshu31/DSA/tree/master/0498-diagonal-traverse) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Chandranshu31/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Chandranshu31/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Chandranshu31/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Chandranshu31/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chandranshu31/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Chandranshu31/DSA/tree/master/0739-daily-temperatures) |
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Chandranshu31/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Chandranshu31/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Chandranshu31/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Chandranshu31/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chandranshu31/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0413-arithmetic-slices](https://github.com/Chandranshu31/DSA/tree/master/0413-arithmetic-slices) |
