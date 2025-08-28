@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-making-file-names-unique](https://github.com/Chandranshu31/DSA/tree/master/1611-making-file-names-unique) |
 | [1660-thousand-separator](https://github.com/Chandranshu31/DSA/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/Chandranshu31/DSA/tree/master/1666-make-the-string-great) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Chandranshu31/DSA/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Chandranshu31/DSA/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
