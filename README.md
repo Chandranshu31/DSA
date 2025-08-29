@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Chandranshu31/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Chandranshu31/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1945-finding-the-users-active-minutes](https://github.com/Chandranshu31/DSA/tree/master/1945-finding-the-users-active-minutes) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Chandranshu31/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chandranshu31/DSA/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Chandranshu31/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Chandranshu31/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Chandranshu31/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Chandranshu31/DSA/tree/master/1448-maximum-69-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Chandranshu31/DSA/tree/master/1965-sum-of-digits-in-base-k) |
 | [2037-count-square-sum-triples](https://github.com/Chandranshu31/DSA/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Chandranshu31/DSA/tree/master/2083-three-divisors) |
