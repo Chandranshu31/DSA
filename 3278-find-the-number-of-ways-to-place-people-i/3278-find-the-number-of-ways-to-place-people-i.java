@@ -1,7 +1,7 @@
 class Solution {
     public int numberOfPairs(int[][] points) {
         int n=points.length;
-        Arrays.sort(points, (a,b) ->{
+        Arrays.sort(points, (a,b) ->{  // sort x points by increasing and y by decreasing wehn x is same.. so that we can order the points left to right 
             if(a[0]==b[0]) return b[1]-a[1];
             return a[0]-b[0];
         });
@@ -16,7 +16,7 @@ class Solution {
                 }
             }
         }
-        return count;
+        return count; 
 
         
         
