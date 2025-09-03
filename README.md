@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Chandranshu31/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Chandranshu31/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Chandranshu31/DSA/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Chandranshu31/DSA/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Chandranshu31/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Chandranshu31/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Chandranshu31/DSA/tree/master/0258-add-digits) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Chandranshu31/DSA/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/Chandranshu31/DSA/tree/master/0866-rectangle-overlap) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Chandranshu31/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
