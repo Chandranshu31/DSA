@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Chandranshu31/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Chandranshu31/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chandranshu31/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Chandranshu31/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Chandranshu31/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Chandranshu31/DSA/tree/master/1552-build-an-array-with-stack-operations) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Chandranshu31/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Chandranshu31/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chandranshu31/DSA/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Chandranshu31/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Chandranshu31/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Chandranshu31/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/Chandranshu31/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chandranshu31/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Chandranshu31/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Chandranshu31/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Chandranshu31/DSA/tree/master/0985-bag-of-tokens) |
 | [1080-camelcase-matching](https://github.com/Chandranshu31/DSA/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/Chandranshu31/DSA/tree/master/1168-duplicate-zeros) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Chandranshu31/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chandranshu31/DSA/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2128-reverse-prefix-of-word](https://github.com/Chandranshu31/DSA/tree/master/2128-reverse-prefix-of-word) |
