@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2388-replace-elements-in-an-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Chandranshu31/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Chandranshu31/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Chandranshu31/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/Chandranshu31/DSA/tree/master/2447-merge-similar-items) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/Chandranshu31/DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2388-replace-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Chandranshu31/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Chandranshu31/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/Chandranshu31/DSA/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/Chandranshu31/DSA/tree/master/2476-check-distances-between-same-letters) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Chandranshu31/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Chandranshu31/DSA/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2388-replace-elements-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Chandranshu31/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/Chandranshu31/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Chandranshu31/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Chandranshu31/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Chandranshu31/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/Chandranshu31/DSA/tree/master/0498-diagonal-traverse) |
+| [2428-equal-row-and-column-pairs](https://github.com/Chandranshu31/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Chandranshu31/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Chandranshu31/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chandranshu31/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
