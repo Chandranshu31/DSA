@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chandranshu31/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandranshu31/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Chandranshu31/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Chandranshu31/DSA/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1848-sum-of-unique-elements](https://github.com/Chandranshu31/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Chandranshu31/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Chandranshu31/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
