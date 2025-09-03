@@ -1,19 +1,29 @@
 class Solution {
     public int equalPairs(int[][] grid) {
-        int count=0;
-        for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[0].length;j++){
-            
-                boolean allSame=true;  
-            for(int k=0;k<grid.length;k++){
-                if(grid[i][k]!=grid[k][j]){
-                    allSame=false;
-                }
-            }
-                if(allSame) count++;
-            }
+    HashMap<List<Integer> , Integer> rowMap = new HashMap<>();
+    // enter all the rows into the map as its elements as key
+
+    for(int i=0;i<grid.length;i++){
+        ArrayList<Integer> list = new ArrayList<>();
+        for(int j=0;j<grid.length;j++){
+            list.add(grid[i][j]);
         }
-        return count;
+        rowMap.put(list,rowMap.getOrDefault(list,0)+1);
+    }
+
+    // now make a list of all the cols element and check if any such row exists in map, if yes then add the freq of rows
+    int count=0;
+
+    for(int i=0;i<grid.length;i++){
+        ArrayList<Integer> list= new ArrayList<>();
+        for(int j=0;j<grid.length;j++){
+            list.add(grid[j][i]);
+        }
+        if(rowMap.containsKey(list)){
+            count+=rowMap.get(list);
+        }
+    }
+    return count;
         
     }
 }
