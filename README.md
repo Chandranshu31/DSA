@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Chandranshu31/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Chandranshu31/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
+| [0824-number-of-lines-to-write-string](https://github.com/Chandranshu31/DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0835-linked-list-components](https://github.com/Chandranshu31/DSA/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/Chandranshu31/DSA/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Chandranshu31/DSA/tree/master/0841-shortest-distance-to-a-character) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandranshu31/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/Chandranshu31/DSA/tree/master/0807-custom-sort-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/Chandranshu31/DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Chandranshu31/DSA/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Chandranshu31/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0857-positions-of-large-groups](https://github.com/Chandranshu31/DSA/tree/master/0857-positions-of-large-groups) |
