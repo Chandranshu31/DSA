@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chandranshu31/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Chandranshu31/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Chandranshu31/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0790-global-and-local-inversions](https://github.com/Chandranshu31/DSA/tree/master/0790-global-and-local-inversions) |
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
 | [0824-number-of-lines-to-write-string](https://github.com/Chandranshu31/DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0835-linked-list-components](https://github.com/Chandranshu31/DSA/tree/master/0835-linked-list-components) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Chandranshu31/DSA/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Chandranshu31/DSA/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Chandranshu31/DSA/tree/master/0728-self-dividing-numbers) |
+| [0790-global-and-local-inversions](https://github.com/Chandranshu31/DSA/tree/master/0790-global-and-local-inversions) |
 | [0866-rectangle-overlap](https://github.com/Chandranshu31/DSA/tree/master/0866-rectangle-overlap) |
 | [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Chandranshu31/DSA/tree/master/1013-fibonacci-number) |
