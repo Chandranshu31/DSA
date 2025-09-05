@@ -6,7 +6,7 @@ class Solution {
         Arrays.sort(intervals, Comparator.comparingInt(a -> a[0])); // sort the intervals on the baiss of their start time
         // so that we could get to know which one is getting srted first, it would be helpful to figure out the overlapping intervals
 
-        List<int[]> res = new ArrayList<>(); // an array list which stores an array of integer type at its indx
+         List<int[]> res = new ArrayList<>(); // an array list which stores an array of integer type at its indx
 
         int current[]= intervals[0]; // get the first interval into current to compare with intervals present ahead
 
@@ -20,7 +20,8 @@ class Solution {
                 res.add(current);
                 current= intervals[i];
             }
-        }
+        } 
+        
 
         res.add(current);  // add last interval into list
         return res.toArray(new int[res.size()][]);   // from list get a lain 2 d array having numb of rows ==  size of list that updated number of intervals 
