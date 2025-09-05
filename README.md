@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Chandranshu31/DSA/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Chandranshu31/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Chandranshu31/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Chandranshu31/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Chandranshu31/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandranshu31/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chandranshu31/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
