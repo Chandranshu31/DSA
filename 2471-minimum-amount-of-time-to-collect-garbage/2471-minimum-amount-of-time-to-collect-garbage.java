@@ -8,7 +8,7 @@ class Solution {
 
         int timeM = 0, timeP = 0, timeG = 0;
 
-    if(indx[0]!=-1){   // For Metal (M)
+    if(indx[0]!=-1){  // to avoid running the truck incase none of the strings contains the particular garbage
        for (int i = 0; i <= indx[0]; i++) {
        String curr = garbage[i];
         for (int j = 0; j < curr.length(); j++) {
@@ -53,8 +53,8 @@ return totalTime;
 
         
     }
-    // a helper function to get the last indx which consists of a type of garbage
-    public int lastIdx(char c,String[] garbage){
+    // a helper function to get the last indx which consists of a type of garbage, so that we know till when we need to run a particular truck
+public int lastIdx(char c,String[] garbage){
         if(garbage.length==0) return 0;
 
         int idx=-1;
