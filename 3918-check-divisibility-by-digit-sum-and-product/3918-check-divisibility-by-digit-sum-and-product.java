@@ -8,7 +8,7 @@ class Solution {
             int lastDig = x % 10;
             digSum += lastDig;
             
-                digProd *= lastDig;
+             digProd *= lastDig;  // use digit zero as valid as well
             
             x /= 10;
         }
