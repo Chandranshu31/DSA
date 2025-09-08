@@ -7,10 +7,10 @@ class Solution {
         if(doesNotcontainsZero(a) && doesNotcontainsZero(b)){
             res[0]=a;
             res[1]=b;
-            break;
+            return res;
         }
       }
-      return res;
+      return res; // unreachable statement
 
 
     }
