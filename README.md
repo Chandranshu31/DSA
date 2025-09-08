@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandranshu31/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/Chandranshu31/DSA/tree/master/2447-merge-similar-items) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Chandranshu31/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Chandranshu31/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2476-check-distances-between-same-letters](https://github.com/Chandranshu31/DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Chandranshu31/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/Chandranshu31/DSA/tree/master/2378-sender-with-largest-word-count) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chandranshu31/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Chandranshu31/DSA/tree/master/2470-removing-stars-from-a-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Chandranshu31/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2476-check-distances-between-same-letters](https://github.com/Chandranshu31/DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Chandranshu31/DSA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Chandranshu31/DSA/tree/master/2502-sort-the-people) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Chandranshu31/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandranshu31/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Chandranshu31/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Chandranshu31/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Chandranshu31/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/Chandranshu31/DSA/tree/master/3034-points-that-intersect-with-cars) |
 ## Simulation
