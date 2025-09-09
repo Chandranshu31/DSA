@@ -34,13 +34,13 @@ class Solution {
                 if (level % 2 == 1 && val % 2 == 1) return false; // odd value on odd level
 
                 // check ordering
-                if (level % 2 == 0 && val <= prevVal) return false; // increasing
-                if (level % 2 == 1 && val >= prevVal) return false; // decreasing
+                if (level % 2 == 0 && val <= prevVal) return false; // if level is even and currval is less than prev so its decreasing threfore return false
+                if (level % 2 == 1 && val >= prevVal) return false; // if level is odd and curr val is greater than prev then increasing so return false
 
                 prevVal = val; 
 
                 if (node.left != null) q.offer(node.left);
-                if (node.right != null) q.offer(node.right);
+                if (node.right != null) q.offer(node.right); 
             }
 
             level++; 
