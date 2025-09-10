@@ -18,16 +18,15 @@ class Solution {
         return dfs(root,root.val);
     }
     public int dfs(TreeNode root, int maxSoFar){
-        if(root==null) return 0;
-
-        int goodNodes=0;
-        if(root.val>=maxSoFar){
-            goodNodes=1;
-        }
-        maxSoFar=Math.max(maxSoFar,root.val);
-
-        goodNodes+=dfs(root.left,maxSoFar);
-        goodNodes+=dfs(root.right,maxSoFar);
-        return goodNodes;
+       if(root==null) return 0;
+       int good=0;
+       if(root.val>=maxSoFar){
+        good=1;
+        maxSoFar=root.val;
+       }
+      // maxSoFar=Math.max(root.val,maxSoFar);
+       good+=dfs(root.left,maxSoFar);
+       good+=dfs(root.right,maxSoFar);
+       return good;
     }
 }
