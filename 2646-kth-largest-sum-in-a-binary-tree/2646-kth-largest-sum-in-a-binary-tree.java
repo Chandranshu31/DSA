@@ -18,7 +18,7 @@ class Solution {
         if(root==null) return 0;
         Queue<TreeNode> q = new LinkedList<>();
        // long levelSum=0;
-        ArrayList<Long> list = new ArrayList<>();
+        PriorityQueue<Long> pq = new PriorityQueue<>(Collections.reverseOrder());
         q.add(root);
         while(!q.isEmpty()){
             int levelSize=q.size();
@@ -29,11 +29,15 @@ class Solution {
                 if(curr.left!=null) q.add(curr.left);
                 if(curr.right!=null) q.add(curr.right);
             }
-            list.add(levelSum);
+            pq.add(levelSum);
         }
-        Collections.sort(list);
-        if(k<=list.size()){
-            return list.get(list.size()-k);
+       // Collections.sort(list);
+        if(k<=pq.size()){
+            long res=-1;
+            for(int i=0;i<k;i++){
+                res=pq.remove();
+            }
+            return res;
         }else{
             return -1;
         }
