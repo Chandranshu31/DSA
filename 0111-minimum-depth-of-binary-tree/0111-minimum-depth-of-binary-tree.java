@@ -28,7 +28,7 @@ class Solution {
         for(int i=0;i<levelSize;i++){
             TreeNode curr= q.remove();
 
-            if(curr.left==null&&curr.right==null){ 
+            if(curr.left==null&&curr.right==null){  // the moment u get  a leaf node thas the min depth
                 return depth;
             }
 
