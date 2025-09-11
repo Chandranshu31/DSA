@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/Chandranshu31/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Chandranshu31/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Chandranshu31/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Chandranshu31/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chandranshu31/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Chandranshu31/DSA/tree/master/2836-neither-minimum-nor-maximum) |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Chandranshu31/DSA/tree/master/1731-even-odd-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Chandranshu31/DSA/tree/master/1731-even-odd-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -1144,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Chandranshu31/DSA/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Chandranshu31/DSA/tree/master/2121-find-if-path-exists-in-graph) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
