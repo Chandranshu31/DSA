@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public int[][] allCellsDistOrder(int R, int C, int r0, int c0) {
-        TreeMap<Integer, List<int[]>> map = new TreeMap<>();
+        TreeMap<Integer, List<int[]>> map = new TreeMap<>(); // to keep keys sorted...in asc order
 
         // Step 1: calculate distance for each cell
         for (int i = 0; i < R; i++) {
