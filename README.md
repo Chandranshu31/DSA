@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Chandranshu31/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/Chandranshu31/DSA/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Chandranshu31/DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Chandranshu31/DSA/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Chandranshu31/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
