@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Chandranshu31/DSA/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Chandranshu31/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Chandranshu31/DSA/tree/master/0985-bag-of-tokens) |
+| [1006-vowel-spellchecker](https://github.com/Chandranshu31/DSA/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Chandranshu31/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/Chandranshu31/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Chandranshu31/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/Chandranshu31/DSA/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Chandranshu31/DSA/tree/master/0961-long-pressed-name) |
+| [1006-vowel-spellchecker](https://github.com/Chandranshu31/DSA/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Chandranshu31/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/Chandranshu31/DSA/tree/master/1080-camelcase-matching) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Chandranshu31/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Chandranshu31/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
 | [0931-maximum-frequency-stack](https://github.com/Chandranshu31/DSA/tree/master/0931-maximum-frequency-stack) |
+| [1006-vowel-spellchecker](https://github.com/Chandranshu31/DSA/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Chandranshu31/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Chandranshu31/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Chandranshu31/DSA/tree/master/1217-relative-sort-array) |
