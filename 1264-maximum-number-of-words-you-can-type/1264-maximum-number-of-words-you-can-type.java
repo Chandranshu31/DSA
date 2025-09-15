@@ -9,15 +9,16 @@ class Solution {
         int i=0,n=txt.length;
         while(i<n){
             int j=i;
-            while(j<n && txt[j]!=' '&&  (!set.contains(txt[j]))){
+            boolean isBroken=false;
+            while(j<n && txt[j]!=' '){
+                if(set.contains(txt[j])){
+                    isBroken=true;
+                }
                 j++;
             }
-            if (j == n || txt[j] == ' ') {
-                words++;
-            }
-              while (j < n && txt[j] != ' ') j++;
-            j++; // skip space
-            i = j;
+            if(!isBroken) words++;
+            i=j+1;
+         
         }
         return words;
     }
