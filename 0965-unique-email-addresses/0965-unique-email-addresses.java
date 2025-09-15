@@ -36,3 +36,5 @@ class Solution {
         return set.size();
     }
 }
+
+// we just need to normalise the local name accordingly and do the needful or count the unique number of emails in the set
