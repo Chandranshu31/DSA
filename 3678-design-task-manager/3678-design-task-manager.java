@@ -29,7 +29,7 @@ class TaskManager {
         }
     }
 
-    public void add(int userId, int taskId, int priority) {
+    public void add(int userId, int taskId, int priority) { // guaranteed that taskId dne previously so directly put in
         taskToUser.put(taskId, userId);
         taskToPriority.put(taskId, priority);
         pq.add(new task(priority, taskId));
@@ -38,7 +38,7 @@ class TaskManager {
     public void edit(int taskId, int newPriority) {
         if (!taskToPriority.containsKey(taskId)) return;  // containsKey not contains
         taskToPriority.put(taskId, newPriority);
-        pq.add(new task(newPriority, taskId));
+        pq.add(new task(newPriority, taskId));  // but we r not removing the tasks old priority
     }
 
     public void rmv(int taskId) {
@@ -50,7 +50,7 @@ class TaskManager {
         while (!pq.isEmpty()) {
             task top = pq.peek(); // now we need to check wether this task is valid that is we have not removed or updated it
 
-            if (!taskToPriority.containsKey(top.taskId)) {  // if the task still exists and we havent removed it during rmv func
+            if (!taskToUser.containsKey(top.taskId)) {  // if the task already removed fduring rmv but we didnt remove it from pq so its an invalid one
                 pq.poll();
                 continue;
             }
