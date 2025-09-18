@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandranshu31/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Chandranshu31/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3678-design-task-manager](https://github.com/Chandranshu31/DSA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandranshu31/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Chandranshu31/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Chandranshu31/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Chandranshu31/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Chandranshu31/DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3678-design-task-manager](https://github.com/Chandranshu31/DSA/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Chandranshu31/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Chandranshu31/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandranshu31/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/Chandranshu31/DSA/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
@@ -1079,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/Chandranshu31/DSA/tree/master/0931-maximum-frequency-stack) |
 | [2429-design-a-food-rating-system](https://github.com/Chandranshu31/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2447-merge-similar-items](https://github.com/Chandranshu31/DSA/tree/master/2447-merge-similar-items) |
+| [3678-design-task-manager](https://github.com/Chandranshu31/DSA/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Chandranshu31/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
