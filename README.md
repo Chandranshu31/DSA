@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/Chandranshu31/DSA/tree/master/3221-find-the-peaks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandranshu31/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandranshu31/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Chandranshu31/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Chandranshu31/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Chandranshu31/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Chandranshu31/DSA/tree/master/3321-type-of-triangle) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/Chandranshu31/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandranshu31/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandranshu31/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Chandranshu31/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Chandranshu31/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Chandranshu31/DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Chandranshu31/DSA/tree/master/3412-permutation-difference-between-two-strings) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chandranshu31/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Chandranshu31/DSA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Chandranshu31/DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Chandranshu31/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/Chandranshu31/DSA/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandranshu31/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Chandranshu31/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
