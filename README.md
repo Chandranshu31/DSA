@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/Chandranshu31/DSA/tree/master/0790-global-and-local-inversions) |
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
 | [0824-number-of-lines-to-write-string](https://github.com/Chandranshu31/DSA/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/Chandranshu31/DSA/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/Chandranshu31/DSA/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/Chandranshu31/DSA/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Chandranshu31/DSA/tree/master/0841-shortest-distance-to-a-character) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Chandranshu31/DSA/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Chandranshu31/DSA/tree/master/0728-self-dividing-numbers) |
 | [0790-global-and-local-inversions](https://github.com/Chandranshu31/DSA/tree/master/0790-global-and-local-inversions) |
+| [0830-largest-triangle-area](https://github.com/Chandranshu31/DSA/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Chandranshu31/DSA/tree/master/0866-rectangle-overlap) |
 | [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Chandranshu31/DSA/tree/master/1013-fibonacci-number) |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Chandranshu31/DSA/tree/master/0223-rectangle-area) |
+| [0830-largest-triangle-area](https://github.com/Chandranshu31/DSA/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Chandranshu31/DSA/tree/master/0866-rectangle-overlap) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Chandranshu31/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Chandranshu31/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
