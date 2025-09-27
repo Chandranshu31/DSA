@@ -19,7 +19,7 @@ class Solution {
         for(int player:players){
             if(!map.containsKey(player)) noDefeats.add(player);
         }
-        Collections.sort(noDefeats);
+        Collections.sort(noDefeats);  // can use tree set n tree map to prserve sorted order but that woul slow down the code abit
         Collections.sort(exactlyOne);
         List<List<Integer>> res = new ArrayList<>();
         res.add(noDefeats);
