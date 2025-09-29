@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Chandranshu31/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chandranshu31/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Chandranshu31/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Chandranshu31/DSA/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chandranshu31/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandranshu31/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Chandranshu31/DSA/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/Chandranshu31/DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Chandranshu31/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Chandranshu31/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Chandranshu31/DSA/tree/master/0260-single-number-iii) |
