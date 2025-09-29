@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Chandranshu31/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Chandranshu31/DSA/tree/master/0228-summary-ranges) |
+| [0260-single-number-iii](https://github.com/Chandranshu31/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Chandranshu31/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chandranshu31/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Chandranshu31/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Chandranshu31/DSA/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Chandranshu31/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Chandranshu31/DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Chandranshu31/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Chandranshu31/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Chandranshu31/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Chandranshu31/DSA/tree/master/0389-find-the-difference) |
