@@ -34,6 +34,9 @@ class Solution {
         }
         path.remove(path.size()-1); // during backtrack remove current nodes val from path
        // sum-=root.val; // and subtract current root's val from sum also
+         // sum-=root.val; we dont need to do it because int is primitive and they are call by reference and in the prev level their old or that level value is intact
+       //while we need to remove the path element because they r objects n they re call by value so to every level of recursion
+       // their original ersion is sent and made chnages.
        
 
     }
