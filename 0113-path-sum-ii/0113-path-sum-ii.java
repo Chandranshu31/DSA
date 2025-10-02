@@ -33,8 +33,8 @@ class Solution {
             dfs(root.left,sum,path,list,targetSum);
             dfs(root.right,sum,path,list,targetSum);
         }
-        path.remove(path.size()-1);
-        sum-=root.val;
+        path.remove(path.size()-1); // during backtrack remove current nodes val from path
+        sum-=root.val; // and subtract current root's val from sum also
        
 
     }
