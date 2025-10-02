@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ // A BRUTE FORCE APPROACH WHERE WE GENERATE ALL THE ROOT TO LEAF PATH AND THEN CHECK WETHER THE VALUES ADD UPTO THE TARGET SUM OR NOT
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> list = new ArrayList<>();
