@@ -38,7 +38,7 @@ class Solution {
     public int getSubTreeSum(TreeNode root){
         if(root==null) return 0;
 
-        int left=getSubTreeSum(root.left); // leftsubtrree sum
+        int left=getSubTreeSum(root.left); // left subtree sum 
         int right=getSubTreeSum(root.right); // right subtree sum
   
         int currSum=left+right+root.val; // currsum including root
