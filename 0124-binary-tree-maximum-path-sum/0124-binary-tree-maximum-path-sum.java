@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    int max=Integer.MIN_VALUE;
+    int max=Integer.MIN_VALUE; // to handle the negative valued nodes
     public int maxPathSum(TreeNode root) {
       //  if(root==null) return 0;
         dfs(root);
