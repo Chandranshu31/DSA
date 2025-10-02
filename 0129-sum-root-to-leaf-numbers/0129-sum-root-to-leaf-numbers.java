@@ -14,32 +14,34 @@
  * }
  */
 class Solution {
+    int sum=0;
 
     public int sumNumbers(TreeNode root) {
-        List<List<Integer>> list = new ArrayList<>();
-        dfs(root,new ArrayList<>(),list);
-        int sum=0;
-        for(List<Integer> path:list){
-            int num=0;
-            for(int i=0;i<path.size();i++){
-                num=num*10+path.get(i);
+       // List<List<Integer>> list = new ArrayList<>();
+       int num=0;
+        dfs(root,num);
+       // int sum=0;
+       // for(List<Integer> path:list){
+           // int num=0;
+          //  for(int i=0;i<path.size();i++){
+             //   num=num*10+path.get(i);
 
-            }
-            sum+=num;
-        }
+          //  }
+            //sum+=num;
+        //}
         return sum;
         
     }
-    public void dfs(TreeNode root,List<Integer> path,List<List<Integer>> list){
+    public void dfs(TreeNode root,int num){
         if(root==null) return;
-        path.add(root.val);
+        num=num*10+root.val;
         if(root.left==null && root.right==null){
-            list.add(new ArrayList<>(path));
+            sum+=num;
         }else{
-                dfs(root.left,path,list);
-                dfs(root.right,path,list);
+                dfs(root.left,num);
+                dfs(root.right,num);
         }
 
-        path.remove(path.size()-1);
+        num=0;
     }
 }
