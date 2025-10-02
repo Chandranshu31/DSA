@@ -17,31 +17,21 @@ class Solution {
     int sum=0;
 
     public int sumNumbers(TreeNode root) {
-       // List<List<Integer>> list = new ArrayList<>();
-       int num=0;
+        int num=0;
         dfs(root,num);
-       // int sum=0;
-       // for(List<Integer> path:list){
-           // int num=0;
-          //  for(int i=0;i<path.size();i++){
-             //   num=num*10+path.get(i);
-
-          //  }
-            //sum+=num;
-        //}
         return sum;
         
     }
     public void dfs(TreeNode root,int num){
         if(root==null) return;
-        num=num*10+root.val;
-        if(root.left==null && root.right==null){
-            sum+=num;
-        }else{
-                dfs(root.left,num);
+        num=num*10+root.val; // generate num or that is the numbeer formed from a single root to leaf path
+        if(root.left==null && root.right==null){ // leaf node reached
+            sum+=num; // add it to the sum
+        }else{ // if leaf not reached explore the left and right subtrees
+                dfs(root.left,num); 
                 dfs(root.right,num);
         }
 
-        num=0;
+        
     }
 }
