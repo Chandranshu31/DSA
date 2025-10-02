@@ -14,23 +14,28 @@
  * }
  */
 class Solution {
+    String smallest;
     public String smallestFromLeaf(TreeNode root) {
         
-       List<String> temp = new ArrayList<>();
-       dfs(root, new StringBuilder(),temp);
-       Collections.sort(temp) ;
-       return temp.get(0);
+       
+       smallest="~"; // it is greater than z
+       dfs(root, new StringBuilder());
+    
+       return smallest;
     }
-    public void dfs(TreeNode root, StringBuilder sb, List<String> temp){
+    public void dfs(TreeNode root, StringBuilder sb){
         if(root==null) return;
         char c=(char) ('a'+root.val);  // numb to char
         int len=sb.length();
         sb.append(c);
         if(root.left==null && root.right==null){
-            temp.add(new StringBuilder(sb).reverse().toString()); // always add new sb as if we reverse the original one then it would get reversed for rest of the operations as well
-        }else{
-              dfs(root.left,sb,temp);
-              dfs(root.right,sb,temp);
+           String currString=new StringBuilder(sb).reverse().toString();
+           if(currString.compareTo(smallest)<0){
+            smallest=currString;
+           }
+         }else{
+              dfs(root.left,sb);
+              dfs(root.right,sb);
         }
         sb.setLength(len); // backtrack, i.e remove the prev one
     }
