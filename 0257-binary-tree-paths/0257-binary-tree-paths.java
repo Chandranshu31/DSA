@@ -18,9 +18,6 @@ class Solution {
         List<String> res = new ArrayList<>();
         dfs(root,new StringBuilder(),res);
         return res;
-
-        
-        
     }
     public static void dfs(TreeNode root,StringBuilder sb,List<String> res){
         if(root==null) return;
