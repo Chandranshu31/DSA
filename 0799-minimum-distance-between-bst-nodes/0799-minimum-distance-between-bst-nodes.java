@@ -17,17 +17,19 @@ class Solution {
     int minDiff=Integer.MAX_VALUE;
     Integer prev=null;
     public int minDiffInBST(TreeNode root) {
-        dfs(root);
+        inorder(root);
         return minDiff;
     }
-    public void dfs(TreeNode root){
+    public void inorder(TreeNode root){
         if(root==null) return;
-        dfs(root.left);
+        inorder(root.left);
         if(prev!=null){
             minDiff=Math.min(minDiff,Math.abs(prev-root.val));
         }
         prev=root.val;
-        dfs(root.right);
+        inorder(root.right);
 
     }
 }
+// inorder trav of bst gives sorted order and min diff would exist between two consecutive nodes when order is sorted... so a simple inorder with a trck of prev 
+// and keep checking
