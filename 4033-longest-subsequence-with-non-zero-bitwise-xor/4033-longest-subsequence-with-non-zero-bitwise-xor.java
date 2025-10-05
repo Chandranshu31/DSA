@@ -16,3 +16,11 @@ class Solution {
         }
     }
 }
+/*
+
+
+- If all elements are 0 → every subsequence XOR = 0 → return 0.
+- If totalXor != 0 → the whole array already has non-zero XOR → answer = n.
+- If totalXor == 0 but not all zeros elements → remove one non-zero element, totalXor=totalXor^removedEl,0^removed...removedEl
+  new XOR = that element ≠ 0 → answer = n - 1.
+*/
