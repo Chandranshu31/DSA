@@ -40,6 +40,6 @@ class Solution {
         if(root.val!=head.val) return false; // if val mismatches then again false
 
         return isDownwardPath(root.left,head.next) || isDownwardPath(root.right,head.next);  // if matched then check for left and righsubtree
-
+// a dfs
     }
 }
