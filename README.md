@@ -1173,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Chandranshu31/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chandranshu31/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Chandranshu31/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/Chandranshu31/DSA/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Chandranshu31/DSA/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Chandranshu31/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chandranshu31/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Chandranshu31/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/Chandranshu31/DSA/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Chandranshu31/DSA/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1278,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Chandranshu31/DSA/tree/master/0687-longest-univalue-path) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Chandranshu31/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/Chandranshu31/DSA/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Chandranshu31/DSA/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Chandranshu31/DSA/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
