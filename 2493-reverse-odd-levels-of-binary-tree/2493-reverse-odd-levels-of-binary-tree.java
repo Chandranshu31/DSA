@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public TreeNode reverseOddLevels(TreeNode root) {
+    public TreeNode reverseOddLevels(TreeNode root) { // just need to swap values withut canging structure of tree by ...reversing where we found analogy
         dfs(root.left,root.right,1); // start at level 1 
         return root;
     }
