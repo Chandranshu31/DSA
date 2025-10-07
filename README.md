@@ -1179,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Chandranshu31/DSA/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Chandranshu31/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Chandranshu31/DSA/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Chandranshu31/DSA/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Chandranshu31/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Chandranshu31/DSA/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -1285,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Chandranshu31/DSA/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Chandranshu31/DSA/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Chandranshu31/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Chandranshu31/DSA/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1484-linked-list-in-binary-tree) |
