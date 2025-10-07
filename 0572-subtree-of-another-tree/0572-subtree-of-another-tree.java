@@ -30,12 +30,6 @@ class Solution {
         if(root==null || subRoot==null || root.val!=subRoot.val){
             return false;
         }
-        if(!isIdentical(root.left,subRoot.left)){
-            return false;
-        }
-        if(!isIdentical(root.right,subRoot.right)){
-            return false;
-        }
-        return true;
-    }
+       return isIdentical(root.left,subRoot.left) && isIdentical(root.right,subRoot.right);
+}
 }
