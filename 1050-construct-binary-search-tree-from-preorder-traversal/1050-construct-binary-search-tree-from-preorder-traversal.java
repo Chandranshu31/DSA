@@ -14,24 +14,25 @@
  * }
  */
 class Solution {
-    int index=0;
-
+    
     public TreeNode bstFromPreorder(int[] preorder) {
-        return buildBST(preorder,Integer.MIN_VALUE, Integer.MAX_VALUE);
+        if(preorder.length==0) return null;
+        TreeNode root= null;
+        for(int i=0;i<preorder.length;i++){
+            root=insert(root,preorder[i]);
+        }
+        return root;  
     }
-    public TreeNode buildBST(int [] preorder, int lower, int upper){
-        if(index==preorder.length){
-            return null;
+    public TreeNode insert(TreeNode node, int val){
+        if(node==null){
+            TreeNode root= new TreeNode(val);
+            return root;
         }
-        int val=preorder[index];
-        if(val<lower || val> upper){ // the node is not be the child of the current node.
-            return null;
+        if(val>node.val){
+        node.right=insert(node.right,val);
+        }else{
+            node.left=insert(node.left,val);
         }
-
-        index++;
-        TreeNode root = new TreeNode(val);
-        root.left=buildBST(preorder,lower,val);
-        root.right=buildBST(preorder,val,upper);
-        return root;
+        return node;
     }
 }
