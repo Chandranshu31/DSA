@@ -17,15 +17,15 @@ class Solution {
     
     public TreeNode bstFromPreorder(int[] preorder) {
         if(preorder.length==0) return null;
-        TreeNode root= null;
-        for(int i=0;i<preorder.length;i++){
+        TreeNode root= new TreeNode(preorder[0]);
+        for(int i=1;i<preorder.length;i++){
             root=insert(root,preorder[i]);
         }
         return root;  
     }
     public TreeNode insert(TreeNode node, int val){
-        if(node==null){
-            TreeNode root= new TreeNode(val);
+       if(node==null){
+        TreeNode root= new TreeNode(val);
             return root;
         }
         if(val>node.val){
