@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Chandranshu31/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Chandranshu31/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Chandranshu31/DSA/tree/master/0682-baseball-game) |
+| [0690-employee-importance](https://github.com/Chandranshu31/DSA/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Chandranshu31/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Chandranshu31/DSA/tree/master/0739-daily-temperatures) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandranshu31/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Chandranshu31/DSA/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/Chandranshu31/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0690-employee-importance](https://github.com/Chandranshu31/DSA/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/Chandranshu31/DSA/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Chandranshu31/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/Chandranshu31/DSA/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Chandranshu31/DSA/tree/master/0690-employee-importance) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Chandranshu31/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chandranshu31/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1296,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Chandranshu31/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/Chandranshu31/DSA/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Chandranshu31/DSA/tree/master/0690-employee-importance) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Chandranshu31/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Chandranshu31/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Chandranshu31/DSA/tree/master/0832-binary-tree-pruning) |
@@ -1326,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Chandranshu31/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Chandranshu31/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0690-employee-importance](https://github.com/Chandranshu31/DSA/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Chandranshu31/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
