@@ -29,7 +29,9 @@ class Solution {
             count++;
             maxSoFar=root.val;
         }
-    dfs(root.left,maxSoFar);
- dfs(root.right,maxSoFar);
+       dfs(root.left,maxSoFar);
+     dfs(root.right,maxSoFar);
     }
 }
+
+// every path must have its own max so far...i.e every recursion path must have its own maxsofar value seen
