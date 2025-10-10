@@ -17,7 +17,7 @@ class Solution {
     
     public TreeNode bstFromPreorder(int[] preorder) {
         if(preorder.length==0) return null;
-        TreeNode root= new TreeNode(preorder[0]);
+        TreeNode root= new TreeNode(preorder[0]);  // we can also make treenode root= null and then iterate from i=0 and build it..rest code same
         for(int i=1;i<preorder.length;i++){
             root=insert(root,preorder[i]);
         }
