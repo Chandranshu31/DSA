@@ -36,7 +36,7 @@ class Solution {
                 if(curr.left!=null) q.add(curr.left);
                 if(curr.right!=null) q.add(curr.right);
             }
-            if(levelNodes.size()==1){
+            if(levelNodes.size()==1){ // for the root 
                 levelNodes.get(0).next=null;
             }else{
             
