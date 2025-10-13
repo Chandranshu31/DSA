@@ -48,7 +48,7 @@ class Solution {
             return new info(true,sum,min,max); // to upper level if exists
         }
         // if not then return false
-        return new info(false,sum,min,max); // case when either of left or right subtree of a node is not a bst
+        return new info(false,sum,min,max); // case when either of left or right subtree of a node is not a bst..root forms bst  but at least one of the subtrees itself is not a BST.
     }
     public int maxSumBST(TreeNode root) {
         maxBSTsum(root);
