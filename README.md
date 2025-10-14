@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Chandranshu31/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandranshu31/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Chandranshu31/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Chandranshu31/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Chandranshu31/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Chandranshu31/DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
