@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Chandranshu31/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandranshu31/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chandranshu31/DSA/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Chandranshu31/DSA/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Chandranshu31/DSA/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Chandranshu31/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Chandranshu31/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Chandranshu31/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Chandranshu31/DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Chandranshu31/DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Chandranshu31/DSA/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2107-find-unique-binary-string](https://github.com/Chandranshu31/DSA/tree/master/2107-find-unique-binary-string) |
 | [2122-count-special-quadruplets](https://github.com/Chandranshu31/DSA/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Chandranshu31/DSA/tree/master/1731-even-odd-tree) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Chandranshu31/DSA/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Chandranshu31/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -1296,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Chandranshu31/DSA/tree/master/1731-even-odd-tree) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Chandranshu31/DSA/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Chandranshu31/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -1358,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/Chandranshu31/DSA/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Chandranshu31/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Chandranshu31/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
