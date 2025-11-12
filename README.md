@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Chandranshu31/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Chandranshu31/DSA/tree/master/3797-design-spreadsheet) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Chandranshu31/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Chandranshu31/DSA/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Chandranshu31/DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Chandranshu31/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Chandranshu31/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Chandranshu31/DSA/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
 |  |
 | ------- |
