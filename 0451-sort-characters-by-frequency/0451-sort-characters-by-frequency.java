@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<n;i++){
             char ch=s.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
-        }
+        } 
 
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
 
