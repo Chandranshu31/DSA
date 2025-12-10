@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chandranshu31/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Chandranshu31/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Chandranshu31/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/Chandranshu31/DSA/tree/master/0748-shortest-completing-word) |
 | [0790-global-and-local-inversions](https://github.com/Chandranshu31/DSA/tree/master/0790-global-and-local-inversions) |
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Chandranshu31/DSA/tree/master/0822-unique-morse-code-words) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandranshu31/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Chandranshu31/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
+| [0748-shortest-completing-word](https://github.com/Chandranshu31/DSA/tree/master/0748-shortest-completing-word) |
 | [0807-custom-sort-string](https://github.com/Chandranshu31/DSA/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/Chandranshu31/DSA/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Chandranshu31/DSA/tree/master/0824-number-of-lines-to-write-string) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Chandranshu31/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0690-employee-importance](https://github.com/Chandranshu31/DSA/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Chandranshu31/DSA/tree/master/0692-top-k-frequent-words) |
+| [0748-shortest-completing-word](https://github.com/Chandranshu31/DSA/tree/master/0748-shortest-completing-word) |
 | [0807-custom-sort-string](https://github.com/Chandranshu31/DSA/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/Chandranshu31/DSA/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Chandranshu31/DSA/tree/master/0822-unique-morse-code-words) |
