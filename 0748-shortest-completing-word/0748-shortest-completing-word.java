@@ -31,7 +31,7 @@ class Solution {
     public boolean hasAllCharactersForSameNumbOfTimes(HashMap<Character,Integer> licMap, HashMap<Character,Integer> wordMap){
         for (Character c : licMap.keySet()) {
             if (!wordMap.containsKey(c)) return false;
-            if (wordMap.get(c) < licMap.get(c)) return false; // must have at least required count
+            if (wordMap.get(c) < licMap.get(c)) return false; // the word must contain that charcter atleast the numb of times it is in lic plate
         }
         return true;
     }
