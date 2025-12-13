@@ -11,7 +11,7 @@
 // }
 
 class Solution {
-    static int maxBST=0;
+    static int maxSize=0;
     static class info{
         boolean isBST;
         int size;
@@ -24,36 +24,31 @@ class Solution {
             this.max=max;
         }
     }
-    public static info findLargestBST(Node root){
+   
+
+    // Return the size of the largest sub-tree which is also a BST
+    static int largestBst(Node root) {
+        maxSize=0;
+        largestBST(root);
+        return maxSize;
+        
+    }
+    public static  info largestBST(Node root){
         if(root==null) return new info(true,0,Integer.MAX_VALUE,Integer.MIN_VALUE);
+        info leftInfo=largestBST(root.left);
+        info rightInfo=largestBST(root.right);
         
-        info leftInfo=findLargestBST(root.left);
-        info rightInfo=findLargestBST(root.right);
-        
-        // now we have left Info and right info
         int size=leftInfo.size+rightInfo.size+1;
         int min=Math.min(root.data,Math.min(leftInfo.min,rightInfo.min));
         int max=Math.max(root.data,Math.max(leftInfo.max,rightInfo.max));
         
-        // nowchck wether root is bst or not
         if(root.data<=leftInfo.max || root.data>=rightInfo.min){
             return new info(false,size,min,max);
         }
-        // now we have checked that it is a bstnow update maxsize if left and right subtree of root are also bsts
-        if(leftInfo.isBST&& rightInfo.isBST){
-            maxBST=Math.max(maxBST,size);
+        if(leftInfo.isBST && rightInfo.isBST){
+            maxSize=Math.max(size,maxSize);
             return new info(true,size,min,max);
         }
-        // if not
         return new info(false,size,min,max);
-    }
-
-    // Return the size of the largest sub-tree which is also a BST
-    static int largestBst(Node root) {
-        // Write your code here
-        maxBST=0;
-        findLargestBST(root);
-        return maxBST;
-        
     }
 }
