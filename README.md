@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandranshu31/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Chandranshu31/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Chandranshu31/DSA/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Chandranshu31/DSA/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Chandranshu31/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Chandranshu31/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/Chandranshu31/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/Chandranshu31/DSA/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Chandranshu31/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3606-coupon-code-validator](https://github.com/Chandranshu31/DSA/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Chandranshu31/DSA/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/Chandranshu31/DSA/tree/master/3567-convert-date-to-binary) |
+| [3606-coupon-code-validator](https://github.com/Chandranshu31/DSA/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Chandranshu31/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3707-find-the-most-common-response](https://github.com/Chandranshu31/DSA/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandranshu31/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandranshu31/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Chandranshu31/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Chandranshu31/DSA/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Chandranshu31/DSA/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chandranshu31/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3678-design-task-manager](https://github.com/Chandranshu31/DSA/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/Chandranshu31/DSA/tree/master/3707-find-the-most-common-response) |
