@@ -8,7 +8,7 @@ class Solution {
             if(isVowel(s.charAt(i))) vowelCountInFirstWord++;
             i++;
         }
-        //sb.append(' ');
+
         if(i<s.length()){
             for(int j=i;j<s.length();j++){
                 int k=j;
@@ -27,7 +27,7 @@ class Solution {
                     sb.append(temp.toString());
                     if(k<s.length()) sb.append(" ");
                 }
-               // sb.append(" ");
+    
                 j=k;
             }
         }
