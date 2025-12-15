@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Chandranshu31/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Chandranshu31/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/Chandranshu31/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2129-capitalize-the-title](https://github.com/Chandranshu31/DSA/tree/master/2129-capitalize-the-title) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chandranshu31/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Chandranshu31/DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Chandranshu31/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
