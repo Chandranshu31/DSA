@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Chandranshu31/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Chandranshu31/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Chandranshu31/DSA/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chandranshu31/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chandranshu31/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Chandranshu31/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2122-count-special-quadruplets](https://github.com/Chandranshu31/DSA/tree/master/2122-count-special-quadruplets) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Chandranshu31/DSA/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Chandranshu31/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Chandranshu31/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chandranshu31/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Chandranshu31/DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Chandranshu31/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Chandranshu31/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Chandranshu31/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Chandranshu31/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chandranshu31/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Queue
 |  |
 | ------- |
