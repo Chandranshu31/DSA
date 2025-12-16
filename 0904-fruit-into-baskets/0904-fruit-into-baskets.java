@@ -21,3 +21,6 @@ class Solution {
         return maxLen;
     }
 }
+
+// we just need to find the longest length of sbarray that only consists of two distinct elements, 
+// keep moving ahead if the distinctness is 2 and updating maxlen, the moment it thits 3 start removing from left and moving left ahead
