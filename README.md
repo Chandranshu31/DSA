@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-making-file-names-unique](https://github.com/Chandranshu31/DSA/tree/master/1611-making-file-names-unique) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Chandranshu31/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/Chandranshu31/DSA/tree/master/1656-count-good-triplets) |
+| [1695-maximum-erasure-value](https://github.com/Chandranshu31/DSA/tree/master/1695-maximum-erasure-value) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chandranshu31/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Chandranshu31/DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Chandranshu31/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Chandranshu31/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Chandranshu31/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1611-making-file-names-unique](https://github.com/Chandranshu31/DSA/tree/master/1611-making-file-names-unique) |
+| [1695-maximum-erasure-value](https://github.com/Chandranshu31/DSA/tree/master/1695-maximum-erasure-value) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Chandranshu31/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Chandranshu31/DSA/tree/master/1752-arithmetic-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandranshu31/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Chandranshu31/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Chandranshu31/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Chandranshu31/DSA/tree/master/1695-maximum-erasure-value) |
 | [1755-defuse-the-bomb](https://github.com/Chandranshu31/DSA/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandranshu31/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Chandranshu31/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
