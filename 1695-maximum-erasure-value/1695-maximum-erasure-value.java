@@ -5,12 +5,12 @@ class Solution {
         int currSum=0;
         int left=0;
         for(int right=0;right<nums.length;right++){
-            while(set.contains(nums[right])){
+            while(set.contains(nums[right])){  // until the set contains the duplicate el keep removing elements from back to ensre new subarray with uniqueness
                 set.remove(nums[left]);
                 currSum-=nums[left];
                 left++;
             }
-            set.add(nums[right]);
+            set.add(nums[right]);  // if unique then keep adding into set and keep updating maxSum always...
             currSum+=nums[right];
             maxSum=Math.max(currSum,maxSum);
         }
