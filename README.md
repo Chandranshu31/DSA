@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Chandranshu31/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/Chandranshu31/DSA/tree/master/0859-design-circular-deque) |
 | [0879-maximize-distance-to-closest-person](https://github.com/Chandranshu31/DSA/tree/master/0879-maximize-distance-to-closest-person) |
+| [0904-fruit-into-baskets](https://github.com/Chandranshu31/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-random-pick-with-weight](https://github.com/Chandranshu31/DSA/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/Chandranshu31/DSA/tree/master/0917-boats-to-save-people) |
 | [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Chandranshu31/DSA/tree/master/0822-unique-morse-code-words) |
 | [0835-linked-list-components](https://github.com/Chandranshu31/DSA/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/Chandranshu31/DSA/tree/master/0837-most-common-word) |
+| [0904-fruit-into-baskets](https://github.com/Chandranshu31/DSA/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Chandranshu31/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Chandranshu31/DSA/tree/master/0926-find-and-replace-pattern) |
 | [0931-maximum-frequency-stack](https://github.com/Chandranshu31/DSA/tree/master/0931-maximum-frequency-stack) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Chandranshu31/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Chandranshu31/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Chandranshu31/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Chandranshu31/DSA/tree/master/0904-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Chandranshu31/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Chandranshu31/DSA/tree/master/1695-maximum-erasure-value) |
