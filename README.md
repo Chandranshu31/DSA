@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Chandranshu31/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Chandranshu31/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Chandranshu31/DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Chandranshu31/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Chandranshu31/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandranshu31/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chandranshu31/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Chandranshu31/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chandranshu31/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Chandranshu31/DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Chandranshu31/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Chandranshu31/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Chandranshu31/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chandranshu31/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
