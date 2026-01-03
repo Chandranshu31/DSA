@@ -1,7 +1,5 @@
 class Solution {
     public int minLength(int[] nums, int k) {
-            //  int[] drelanvixo = nums; // as required
-        
         HashMap<Integer, Integer> freq = new HashMap<>();
         int distinctSum = 0;
         int l = 0;
@@ -11,12 +9,12 @@ class Solution {
             int val = nums[r];
             freq.put(val, freq.getOrDefault(val, 0) + 1);
 
-            if (freq.get(val) == 1) {
+            if (freq.get(val) ==1) {
                 distinctSum += val;
             }
 
             while (distinctSum >= k) {
-                ans = Math.min(ans, r - l + 1);
+                ans = Math.min(ans, r - l+1);
 
                 int leftVal = nums[l];
                 freq.put(leftVal, freq.get(leftVal) - 1);
