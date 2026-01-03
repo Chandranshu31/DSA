@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Chandranshu31/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chandranshu31/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Chandranshu31/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Chandranshu31/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chandranshu31/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Chandranshu31/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Chandranshu31/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chandranshu31/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Chandranshu31/DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Chandranshu31/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Chandranshu31/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Chandranshu31/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandranshu31/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1611-making-file-names-unique](https://github.com/Chandranshu31/DSA/tree/master/1611-making-file-names-unique) |
