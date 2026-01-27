@@ -7,11 +7,14 @@ class Solution {
         int idx=-1;
         for(int i=nums.length-2;i>=0;i--){
             if(nums[i]>=nums[i+1]){
-                idx=i;
+                idx=i+1;
                 break;
             }
         }
-        return idx==-1?0:idx+1; 
+        return idx==-1?0:idx; 
+
+        // from the right find the first idx where the condition matches and before that if we keep removing then it would be
+        // a strictlt increasing rest in right...iterate from end
 
 
         
