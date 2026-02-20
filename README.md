@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Chandranshu31/DSA/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Chandranshu31/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Chandranshu31/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3790-fruits-into-baskets-ii](https://github.com/Chandranshu31/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Chandranshu31/DSA/tree/master/3797-design-spreadsheet) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Chandranshu31/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Chandranshu31/DSA/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Chandranshu31/DSA/tree/master/3221-find-the-peaks) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Chandranshu31/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Chandranshu31/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/Chandranshu31/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3707-find-the-most-common-response](https://github.com/Chandranshu31/DSA/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandranshu31/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Chandranshu31/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/Chandranshu31/DSA/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/Chandranshu31/DSA/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chandranshu31/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/Chandranshu31/DSA/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandranshu31/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chandranshu31/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Chandranshu31/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/Chandranshu31/DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Chandranshu31/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Chandranshu31/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
