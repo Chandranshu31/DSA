@@ -5,7 +5,7 @@ class Solution {
         boolean isActive=true; // for A 
 
         for(int i=0;i<nums.length;i++){
-            if(nums[i]%2!=0){  // if odd make a inactive
+            if(nums[i]%2!=0){  // if odd, make 'a' inactive
                 isActive=!(isActive);
             }
             if(isEverySixth(i)){  // same for other condiiton
